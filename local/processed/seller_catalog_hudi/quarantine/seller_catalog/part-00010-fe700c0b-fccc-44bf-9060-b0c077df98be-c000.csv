@@ -1,0 +1,1770 @@
+seller_id,item_id,item_name,category,marketplace_price,stock_qty,dq_failure_reason
+S100,I12145,Skechers Gowalk,Footwear,98487.76,-18,negative_stock
+S100,I158925,,Footwear,54625.66,165,missing_item_name
+S100,I25140,,Electronics,25973.01,266,missing_item_name
+S100,I255028,,Apparel,56316.29,142,missing_item_name
+S100,I276666,,Apparel,125761.24,392,missing_item_name
+S100,I295378,Puma Running Shoes,Footwear,-12747.12,58,negative_price
+S100,I298672,Bajaj Mixer Grinder,Home Appliances,37628.95,-3,negative_stock
+S100,I323362,Nike Air Zoom Pegasus,Footwear,-70368.28,143,negative_price
+S100,I356099,Nike Air Zoom Pegasus,Footwear,-134308.14,325,negative_price
+S100,I372095,Samsung Galaxy S24 Ultra,Electronics,-125711.08,201,negative_price
+S100,I375784,,Home Appliances,127539.66,448,missing_item_name
+S100,I38594,U.s. Polo T-shirt,Apparel,73604.98,-5,negative_stock
+S100,I434250,Zara Maxi Dress,Apparel,96455.99,-7,negative_stock
+S100,I436077,,Electronics,51036.73,157,missing_item_name
+S100,I459359,Sony Wh-1000xm5 Headphones,Electronics,7921.82,-2,negative_stock
+S100,I468185,,Footwear,-122378.09,11,"missing_item_name,negative_price"
+S100,I47633,,Electronics,19043.73,100,missing_item_name
+S100,I483126,,Apparel,115402.88,325,missing_item_name
+S100,I48910,,Footwear,109789.83,171,missing_item_name
+S100,I533885,Zara Maxi Dress,Apparel,-84796.97,158,negative_price
+S100,I564579,,Apparel,9832.84,31,missing_item_name
+S100,I574617,Levis Denim Jacket,Apparel,-75487.75,330,negative_price
+S100,I66396,,Home Appliances,82246.6,454,missing_item_name
+S100,I746723,Lg 7kg Washing Machine,Home Appliances,-12563.74,460,negative_price
+S100,I779733,Allen Solly Formal Pants,Apparel,-112932.94,103,negative_price
+S100,I81783,Samsung 55” Smart Tv,Home Appliances,-127175.84,247,negative_price
+S100,I830571,Lg 7kg Washing Machine,Home Appliances,-103293.87,48,negative_price
+S100,I864301,Levis Denim Jacket,Apparel,-33505.5,237,negative_price
+S100,I898582,,Apparel,100656.5,17,missing_item_name
+S100,I907951,,Home Appliances,38414.33,217,missing_item_name
+S100,I934342,,Electronics,3409.17,22,missing_item_name
+S100,I954181,,Electronics,55275.78,493,missing_item_name
+S100,I985040,,Apparel,9247.41,319,missing_item_name
+S100,I991652,Puma Running Shoes,Footwear,1543.26,-16,negative_stock
+S100,I993778,Samsung 55” Smart Tv,Home Appliances,109690.09,-18,negative_stock
+S101,I1003326,Bajaj Mixer Grinder,Home Appliances,31944.65,-17,negative_stock
+S101,I117387,,Footwear,140825.15,441,missing_item_name
+S101,I118543,Lg 7kg Washing Machine,Home Appliances,-51725.07,448,negative_price
+S101,I154290,Sony Wh-1000xm5 Headphones,Electronics,-114254.01,446,negative_price
+S101,I194602,Dyson Vacuum Cleaner,Home Appliances,85176.94,-13,negative_stock
+S101,I223039,,Footwear,136953.47,408,missing_item_name
+S101,I232405,,Apparel,4289.88,370,missing_item_name
+S101,I252789,Zara Maxi Dress,Apparel,-51351.95,347,negative_price
+S101,I304332,Sony Wh-1000xm5 Headphones,Electronics,-146445.63,69,negative_price
+S101,I322646,Philips Air Fryer,Home Appliances,-97767.24,43,negative_price
+S101,I324018,Dell Xps 13 Laptop,Electronics,-63298.84,228,negative_price
+S101,I391568,Nike Air Zoom Pegasus,Footwear,-75313.09,454,negative_price
+S101,I414323,Apple Iphone 15 Pro,Electronics,122079.03,-19,negative_stock
+S101,I427601,Adidas Ultraboost 23,Footwear,-61315.4,260,negative_price
+S101,I446499,Allen Solly Formal Pants,Apparel,-110012.46,222,negative_price
+S101,I490002,Adidas Ultraboost 23,Footwear,56354.53,-17,negative_stock
+S101,I513963,,Home Appliances,143840.94,323,missing_item_name
+S101,I526481,Puma Running Shoes,Footwear,-82292.89,48,negative_price
+S101,I537118,,Apparel,55417.18,103,missing_item_name
+S101,I545077,,Footwear,147226.71,85,missing_item_name
+S101,I55065,Philips Air Fryer,Home Appliances,-29070.36,216,negative_price
+S101,I55499,Bajaj Mixer Grinder,Home Appliances,-44580.58,32,negative_price
+S101,I564924,Sony Wh-1000xm5 Headphones,Electronics,-37358.83,398,negative_price
+S101,I589878,,Footwear,21101.64,219,missing_item_name
+S101,I604736,Apple Iphone 15 Pro,Electronics,-132275.84,393,negative_price
+S101,I663740,Puma Running Shoes,Footwear,130537.29,-13,negative_stock
+S101,I686159,U.s. Polo T-shirt,Apparel,97232.99,-12,negative_stock
+S101,I695568,Nike Air Zoom Pegasus,Footwear,117564.15,-4,negative_stock
+S101,I698895,,Apparel,100314.84,70,missing_item_name
+S101,I699529,Boat Smartwatch,Electronics,77942.82,-13,negative_stock
+S101,I716195,Philips Air Fryer,Home Appliances,49458.18,-7,negative_stock
+S101,I728279,,Home Appliances,48093.31,116,missing_item_name
+S101,I731030,,Footwear,79047.38,49,missing_item_name
+S101,I769371,,Electronics,147152.14,415,missing_item_name
+S101,I77841,Sony Wh-1000xm5 Headphones,Electronics,-142540.47,72,negative_price
+S101,I809700,,Footwear,8772.56,317,missing_item_name
+S101,I822676,Allen Solly Formal Pants,Apparel,79542.79,-2,negative_stock
+S101,I849005,Levis Denim Jacket,Apparel,34976.92,-17,negative_stock
+S101,I852442,Nike Air Zoom Pegasus,Footwear,15587.86,-17,negative_stock
+S101,I909505,Reebok Nano X4,Footwear,130825.7,-11,negative_stock
+S101,I951158,Skechers Gowalk,Footwear,88142.46,-3,negative_stock
+S101,I953453,Adidas Ultraboost 23,Footwear,-859.18,365,negative_price
+S101,I977126,Samsung Galaxy S24 Ultra,Electronics,4663.14,-9,negative_stock
+S101,I992271,Puma Running Shoes,Footwear,-72490.46,111,negative_price
+S102,I102714,Apple Iphone 15 Pro,Electronics,-122170.97,25,negative_price
+S102,I145001,Skechers Gowalk,Footwear,18746.38,-3,negative_stock
+S102,I157174,U.s. Polo T-shirt,Apparel,5744.61,-4,negative_stock
+S102,I160316,Allen Solly Formal Pants,Apparel,-142213.37,18,negative_price
+S102,I177033,Samsung Galaxy S24 Ultra,Electronics,7869.94,-8,negative_stock
+S102,I180523,Samsung 55” Smart Tv,Home Appliances,114228.81,-2,negative_stock
+S102,I207426,,Footwear,88850.51,123,missing_item_name
+S102,I214932,,Footwear,125734.78,443,missing_item_name
+S102,I258428,,Apparel,69522.82,35,missing_item_name
+S102,I290880,Bajaj Mixer Grinder,Home Appliances,47456.08,-14,negative_stock
+S102,I351170,,Apparel,35418.36,332,missing_item_name
+S102,I390537,Reebok Nano X4,Footwear,-96278.86,465,negative_price
+S102,I397582,Dell Xps 13 Laptop,Electronics,-5578.62,195,negative_price
+S102,I400751,Nike Air Zoom Pegasus,Footwear,55192.55,-18,negative_stock
+S102,I402043,,Apparel,118470.15,398,missing_item_name
+S102,I411656,Lg 7kg Washing Machine,Home Appliances,-119520.46,24,negative_price
+S102,I439854,Philips Air Fryer,Home Appliances,72508.98,-13,negative_stock
+S102,I523868,,Electronics,123440.65,408,missing_item_name
+S102,I57081,Samsung 55” Smart Tv,Home Appliances,-35655.2,193,negative_price
+S102,I573297,Samsung 55” Smart Tv,Home Appliances,-61961.23,-8,"negative_price,negative_stock"
+S102,I580333,Levis Denim Jacket,Apparel,-107805.8,356,negative_price
+S102,I589478,U.s. Polo T-shirt,Apparel,86378.83,-12,negative_stock
+S102,I592470,Nike Air Zoom Pegasus,Footwear,42120.96,-6,negative_stock
+S102,I609494,Skechers Gowalk,Footwear,-65323.39,489,negative_price
+S102,I614115,Reebok Nano X4,Footwear,-17151.83,97,negative_price
+S102,I674548,,Home Appliances,1704.3,243,missing_item_name
+S102,I688531,Skechers Gowalk,Footwear,129543.93,-7,negative_stock
+S102,I717281,Allen Solly Formal Pants,Apparel,117114.79,-10,negative_stock
+S102,I72165,Boat Smartwatch,Electronics,-58802.3,162,negative_price
+S102,I772296,,Footwear,67325.29,248,missing_item_name
+S102,I77679,Bajaj Mixer Grinder,Home Appliances,31103.88,-2,negative_stock
+S102,I782898,,Apparel,57171.08,226,missing_item_name
+S102,I786714,,Apparel,16833.41,36,missing_item_name
+S102,I82574,Zara Maxi Dress,Apparel,-5691.82,315,negative_price
+S102,I856835,Sony Wh-1000xm5 Headphones,Electronics,115670.99,-19,negative_stock
+S102,I87476,Nike Air Zoom Pegasus,Footwear,127165.66,-18,negative_stock
+S102,I876077,U.s. Polo T-shirt,Apparel,-92030.27,259,negative_price
+S102,I903607,Adidas Ultraboost 23,Footwear,-12652.62,212,negative_price
+S102,I920259,Samsung Galaxy S24 Ultra,Electronics,-120081.61,414,negative_price
+S102,I948769,Allen Solly Formal Pants,Apparel,95709.89,-3,negative_stock
+S102,I952995,,Home Appliances,138546.37,223,missing_item_name
+S102,I977058,Levis Denim Jacket,Apparel,77717.07,-18,negative_stock
+S103,I112073,,Electronics,49809.64,145,missing_item_name
+S103,I120577,Levis Denim Jacket,Apparel,9271.29,-13,negative_stock
+S103,I143170,Bajaj Mixer Grinder,Home Appliances,143957.96,-7,negative_stock
+S103,I213267,,Electronics,13823.63,280,missing_item_name
+S103,I266045,Skechers Gowalk,Footwear,103817.25,-15,negative_stock
+S103,I292278,Zara Maxi Dress,Apparel,13367.71,-6,negative_stock
+S103,I292405,,Apparel,108178.34,461,missing_item_name
+S103,I294948,,Footwear,117290.76,492,missing_item_name
+S103,I358249,,Apparel,124957.95,24,missing_item_name
+S103,I372985,Reebok Nano X4,Footwear,-40901.19,114,negative_price
+S103,I404286,Dell Xps 13 Laptop,Electronics,-134450.48,341,negative_price
+S103,I420033,,Electronics,38676.81,47,missing_item_name
+S103,I430787,,Apparel,15800.76,416,missing_item_name
+S103,I431515,Apple Iphone 15 Pro,Electronics,81283.48,-3,negative_stock
+S103,I461275,,Apparel,51607.9,78,missing_item_name
+S103,I475780,,Footwear,120257.4,242,missing_item_name
+S103,I494259,Adidas Ultraboost 23,Footwear,-109269.16,284,negative_price
+S103,I522562,Dell Xps 13 Laptop,Electronics,59737.18,-11,negative_stock
+S103,I548745,Lg 7kg Washing Machine,Home Appliances,149888.81,-5,negative_stock
+S103,I569363,Boat Smartwatch,Electronics,146140.78,-11,negative_stock
+S103,I588746,Samsung Galaxy S24 Ultra,Electronics,-107345.51,433,negative_price
+S103,I629843,,Apparel,1241.42,61,missing_item_name
+S103,I632606,Sony Wh-1000xm5 Headphones,Electronics,95080.49,-9,negative_stock
+S103,I667402,,Electronics,131746.14,302,missing_item_name
+S103,I677992,,Apparel,64943.93,202,missing_item_name
+S103,I704411,Zara Maxi Dress,Apparel,-39510.74,407,negative_price
+S103,I76963,H&m Cotton Shirt,Apparel,-125600.91,286,negative_price
+S103,I795935,Adidas Ultraboost 23,Footwear,146089.24,-5,negative_stock
+S103,I801489,,Electronics,81949.1,287,missing_item_name
+S103,I839369,Sony Wh-1000xm5 Headphones,Electronics,-92667.56,286,negative_price
+S103,I882660,Allen Solly Formal Pants,Apparel,137679.14,-5,negative_stock
+S103,I910243,Samsung Galaxy S24 Ultra,Electronics,-24914.0,48,negative_price
+S103,I915577,Dyson Vacuum Cleaner,Home Appliances,37516.62,-3,negative_stock
+S103,I928206,Dyson Vacuum Cleaner,Home Appliances,-27377.4,124,negative_price
+S103,I930754,,Electronics,137436.76,15,missing_item_name
+S103,I964658,Boat Smartwatch,Electronics,65798.17,-6,negative_stock
+S104,I106915,Reebok Nano X4,Footwear,-12040.38,308,negative_price
+S104,I109137,U.s. Polo T-shirt,Apparel,-98410.11,77,negative_price
+S104,I123120,Sony Wh-1000xm5 Headphones,Electronics,31630.6,-7,negative_stock
+S104,I185384,Adidas Ultraboost 23,Footwear,-116632.66,471,negative_price
+S104,I192846,,Apparel,73354.59,414,missing_item_name
+S104,I197033,Boat Smartwatch,Electronics,-144921.19,198,negative_price
+S104,I21495,Skechers Gowalk,Footwear,47643.6,-19,negative_stock
+S104,I230744,Zara Maxi Dress,Apparel,105293.01,-20,negative_stock
+S104,I23105,Skechers Gowalk,Footwear,-7914.65,117,negative_price
+S104,I290230,,Apparel,114362.9,78,missing_item_name
+S104,I30499,Boat Smartwatch,Electronics,-64661.13,154,negative_price
+S104,I305333,,Electronics,40905.09,276,missing_item_name
+S104,I327177,,Apparel,145942.04,-9,"missing_item_name,negative_stock"
+S104,I345136,Nike Air Zoom Pegasus,Footwear,90595.25,-18,negative_stock
+S104,I425576,Puma Running Shoes,Footwear,20840.75,-14,negative_stock
+S104,I451322,Sony Wh-1000xm5 Headphones,Electronics,-139444.55,269,negative_price
+S104,I452903,Samsung 55” Smart Tv,Home Appliances,-94220.94,191,negative_price
+S104,I45488,Dell Xps 13 Laptop,Electronics,-59054.81,377,negative_price
+S104,I469764,Dell Xps 13 Laptop,Electronics,-121961.05,350,negative_price
+S104,I475094,Dell Xps 13 Laptop,Electronics,-139099.91,451,negative_price
+S104,I491087,Levis Denim Jacket,Apparel,-136454.99,127,negative_price
+S104,I500906,,Electronics,96570.65,158,missing_item_name
+S104,I502198,,Electronics,35976.87,177,missing_item_name
+S104,I555988,Skechers Gowalk,Footwear,79030.29,-5,negative_stock
+S104,I575888,,Apparel,56073.97,397,missing_item_name
+S104,I582816,,Apparel,16350.58,334,missing_item_name
+S104,I589073,Bajaj Mixer Grinder,Home Appliances,140501.87,-12,negative_stock
+S104,I605462,,Footwear,117824.73,352,missing_item_name
+S104,I611175,,Footwear,49158.94,472,missing_item_name
+S104,I627971,,Apparel,62078.11,446,missing_item_name
+S104,I676320,Philips Air Fryer,Home Appliances,-11473.4,296,negative_price
+S104,I685866,U.s. Polo T-shirt,Apparel,49562.04,-13,negative_stock
+S104,I731607,,Electronics,57550.81,393,missing_item_name
+S104,I802830,Adidas Ultraboost 23,Footwear,109608.67,-9,negative_stock
+S104,I833597,Bajaj Mixer Grinder,Home Appliances,-115792.73,469,negative_price
+S104,I83976,Dell Xps 13 Laptop,Electronics,-17327.04,203,negative_price
+S104,I880540,Nike Air Zoom Pegasus,Footwear,66276.39,-16,negative_stock
+S104,I987728,,Apparel,71715.4,73,missing_item_name
+S105,I106285,H&m Cotton Shirt,Apparel,-55098.59,126,negative_price
+S105,I108394,,Electronics,99403.02,404,missing_item_name
+S105,I115604,Adidas Ultraboost 23,Footwear,2499.65,-16,negative_stock
+S105,I117397,Bajaj Mixer Grinder,Home Appliances,101414.96,-10,negative_stock
+S105,I128546,,Footwear,5148.22,362,missing_item_name
+S105,I144667,Skechers Gowalk,Footwear,97131.82,-3,negative_stock
+S105,I157610,,Electronics,44402.64,220,missing_item_name
+S105,I189654,,Electronics,46711.73,366,missing_item_name
+S105,I20961,,Electronics,32085.65,65,missing_item_name
+S105,I215773,,Apparel,84316.2,112,missing_item_name
+S105,I215830,,Apparel,58548.49,374,missing_item_name
+S105,I24223,Philips Air Fryer,Home Appliances,38449.71,-13,negative_stock
+S105,I246380,Dell Xps 13 Laptop,Electronics,-120677.46,235,negative_price
+S105,I262859,H&m Cotton Shirt,Apparel,-46459.32,355,negative_price
+S105,I294072,,Electronics,147169.21,120,missing_item_name
+S105,I298439,U.s. Polo T-shirt,Apparel,-61464.08,409,negative_price
+S105,I308328,Dell Xps 13 Laptop,Electronics,-148656.63,341,negative_price
+S105,I324426,H&m Cotton Shirt,Apparel,148842.01,-2,negative_stock
+S105,I386240,Nike Air Zoom Pegasus,Footwear,90719.87,-15,negative_stock
+S105,I463597,Levis Denim Jacket,Apparel,-31780.23,256,negative_price
+S105,I522954,,Electronics,56713.22,359,missing_item_name
+S105,I531291,,Electronics,99839.15,162,missing_item_name
+S105,I546463,Lg 7kg Washing Machine,Home Appliances,-63838.01,14,negative_price
+S105,I604571,U.s. Polo T-shirt,Apparel,-62988.55,306,negative_price
+S105,I612702,,Apparel,43083.04,117,missing_item_name
+S105,I629586,Bajaj Mixer Grinder,Home Appliances,-32546.45,382,negative_price
+S105,I646906,U.s. Polo T-shirt,Apparel,96397.48,-15,negative_stock
+S105,I650433,Samsung Galaxy S24 Ultra,Electronics,85033.98,-19,negative_stock
+S105,I801253,Boat Smartwatch,Electronics,89697.72,-6,negative_stock
+S105,I806474,Philips Air Fryer,Home Appliances,49191.18,-10,negative_stock
+S105,I843836,Levis Denim Jacket,Apparel,47306.23,-7,negative_stock
+S105,I884826,,Electronics,45067.49,423,missing_item_name
+S105,I939378,Allen Solly Formal Pants,Apparel,15742.1,-15,negative_stock
+S105,I957470,Philips Air Fryer,Home Appliances,-42661.13,138,negative_price
+S105,I988084,,Footwear,36128.15,436,missing_item_name
+S105,I998951,Adidas Ultraboost 23,Footwear,64733.09,-7,negative_stock
+S106,I104674,,Apparel,76594.52,496,missing_item_name
+S106,I111497,Dyson Vacuum Cleaner,Home Appliances,-82404.61,395,negative_price
+S106,I140349,Apple Iphone 15 Pro,Electronics,58835.02,-20,negative_stock
+S106,I156325,Zara Maxi Dress,Apparel,138093.62,-18,negative_stock
+S106,I157287,H&m Cotton Shirt,Apparel,-37898.78,370,negative_price
+S106,I178626,Reebok Nano X4,Footwear,-121509.78,81,negative_price
+S106,I203320,,Footwear,46742.03,419,missing_item_name
+S106,I203671,,Footwear,67967.22,331,missing_item_name
+S106,I226946,Dell Xps 13 Laptop,Electronics,135684.63,-5,negative_stock
+S106,I230613,,Home Appliances,121961.19,352,missing_item_name
+S106,I272206,Dyson Vacuum Cleaner,Home Appliances,149907.13,-15,negative_stock
+S106,I28202,Samsung Galaxy S24 Ultra,Electronics,-68385.82,287,negative_price
+S106,I299086,,Home Appliances,57217.56,161,missing_item_name
+S106,I300000,,Footwear,92537.4,85,missing_item_name
+S106,I320825,Reebok Nano X4,Footwear,-29725.06,320,negative_price
+S106,I32149,,Electronics,63211.69,110,missing_item_name
+S106,I375736,Samsung Galaxy S24 Ultra,Electronics,-144177.67,-7,"negative_price,negative_stock"
+S106,I415425,,Footwear,36576.94,264,missing_item_name
+S106,I42563,Lg 7kg Washing Machine,Home Appliances,-69362.43,281,negative_price
+S106,I491864,,Electronics,-29858.11,106,"missing_item_name,negative_price"
+S106,I510202,,Electronics,108544.23,423,missing_item_name
+S106,I529407,,Apparel,95490.84,459,missing_item_name
+S106,I557283,Zara Maxi Dress,Apparel,-9662.06,413,negative_price
+S106,I558485,Samsung 55” Smart Tv,Home Appliances,-10170.34,306,negative_price
+S106,I57986,Philips Air Fryer,Home Appliances,131530.76,-11,negative_stock
+S106,I583713,Apple Iphone 15 Pro,Electronics,119374.27,-3,negative_stock
+S106,I590035,Puma Running Shoes,Footwear,-4278.08,285,negative_price
+S106,I614076,Bajaj Mixer Grinder,Home Appliances,18788.71,-6,negative_stock
+S106,I647778,Philips Air Fryer,Home Appliances,86326.08,-1,negative_stock
+S106,I659553,Apple Iphone 15 Pro,Electronics,-50861.94,410,negative_price
+S106,I671537,Bajaj Mixer Grinder,Home Appliances,-101682.55,294,negative_price
+S106,I672113,,Electronics,31779.71,132,missing_item_name
+S106,I679848,Boat Smartwatch,Electronics,69156.82,-4,negative_stock
+S106,I707300,,Home Appliances,127574.07,225,missing_item_name
+S106,I713534,Sony Wh-1000xm5 Headphones,Electronics,49111.18,-7,negative_stock
+S106,I717901,Levis Denim Jacket,Apparel,-99381.56,418,negative_price
+S106,I752583,,Apparel,92921.78,114,missing_item_name
+S106,I773356,Skechers Gowalk,Footwear,-89689.06,287,negative_price
+S106,I854108,,Electronics,145124.77,342,missing_item_name
+S106,I86539,,Home Appliances,132311.56,419,missing_item_name
+S106,I902280,Lg 7kg Washing Machine,Home Appliances,103235.99,-9,negative_stock
+S106,I92995,,Footwear,142214.64,230,missing_item_name
+S107,I106029,Dell Xps 13 Laptop,Electronics,143522.94,-1,negative_stock
+S107,I129007,Samsung Galaxy S24 Ultra,Electronics,-76710.43,498,negative_price
+S107,I142472,Apple Iphone 15 Pro,Electronics,10622.19,-12,negative_stock
+S107,I211896,Levis Denim Jacket,Apparel,-125083.9,438,negative_price
+S107,I22234,,Home Appliances,131582.04,64,missing_item_name
+S107,I224493,U.s. Polo T-shirt,Apparel,127982.57,-7,negative_stock
+S107,I237304,Reebok Nano X4,Footwear,50481.38,-3,negative_stock
+S107,I266062,Dyson Vacuum Cleaner,Home Appliances,28562.85,-5,negative_stock
+S107,I294084,Nike Air Zoom Pegasus,Footwear,-34508.94,165,negative_price
+S107,I295350,,Electronics,83967.15,492,missing_item_name
+S107,I377406,U.s. Polo T-shirt,Apparel,-537.26,426,negative_price
+S107,I447750,,Electronics,130514.68,163,missing_item_name
+S107,I462804,,Footwear,45471.78,212,missing_item_name
+S107,I540021,Dyson Vacuum Cleaner,Home Appliances,149666.27,-17,negative_stock
+S107,I545441,Adidas Ultraboost 23,Footwear,43787.78,-17,negative_stock
+S107,I552018,Philips Air Fryer,Home Appliances,75915.25,-13,negative_stock
+S107,I569119,,Apparel,107883.82,208,missing_item_name
+S107,I585024,Zara Maxi Dress,Apparel,-30287.96,328,negative_price
+S107,I631014,Sony Wh-1000xm5 Headphones,Electronics,104445.32,-6,negative_stock
+S107,I663035,Apple Iphone 15 Pro,Electronics,-86264.33,158,negative_price
+S107,I695513,,Home Appliances,98062.32,226,missing_item_name
+S107,I708743,Dell Xps 13 Laptop,Electronics,112211.01,-13,negative_stock
+S107,I710207,,Apparel,620.43,54,missing_item_name
+S107,I726483,Zara Maxi Dress,Apparel,-134509.9,361,negative_price
+S107,I728694,,Footwear,40861.52,450,missing_item_name
+S107,I760230,,Electronics,70309.74,380,missing_item_name
+S107,I787602,H&m Cotton Shirt,Apparel,-37863.35,489,negative_price
+S107,I793730,Zara Maxi Dress,Apparel,144726.41,-2,negative_stock
+S107,I829744,,Footwear,124215.19,88,missing_item_name
+S107,I872478,Dyson Vacuum Cleaner,Home Appliances,-79689.11,242,negative_price
+S107,I879718,,Home Appliances,18773.04,10,missing_item_name
+S107,I985554,,Home Appliances,44857.43,74,missing_item_name
+S108,I130966,Skechers Gowalk,Footwear,-77109.84,145,negative_price
+S108,I218531,Apple Iphone 15 Pro,Electronics,26375.72,-5,negative_stock
+S108,I220152,,Home Appliances,100343.96,251,missing_item_name
+S108,I234125,Bajaj Mixer Grinder,Home Appliances,-64257.62,444,negative_price
+S108,I235133,Zara Maxi Dress,Apparel,-33266.92,31,negative_price
+S108,I284671,,Home Appliances,132477.78,345,missing_item_name
+S108,I33415,Puma Running Shoes,Footwear,88973.73,-10,negative_stock
+S108,I380714,Nike Air Zoom Pegasus,Footwear,92070.92,-10,negative_stock
+S108,I415072,Allen Solly Formal Pants,Apparel,25747.43,-1,negative_stock
+S108,I424659,Dyson Vacuum Cleaner,Home Appliances,18473.33,-6,negative_stock
+S108,I441126,Samsung 55” Smart Tv,Home Appliances,-25139.58,158,negative_price
+S108,I452583,,Electronics,102853.62,244,missing_item_name
+S108,I498401,,Home Appliances,138161.73,133,missing_item_name
+S108,I499886,,Home Appliances,34208.76,122,missing_item_name
+S108,I528375,,Electronics,86032.45,219,missing_item_name
+S108,I544979,Zara Maxi Dress,Apparel,-2820.23,359,negative_price
+S108,I546329,Dyson Vacuum Cleaner,Home Appliances,-133244.32,302,negative_price
+S108,I560030,,Electronics,78245.43,76,missing_item_name
+S108,I561758,Bajaj Mixer Grinder,Home Appliances,-19463.93,104,negative_price
+S108,I564669,,Home Appliances,4406.59,152,missing_item_name
+S108,I610616,Boat Smartwatch,Electronics,40905.68,-6,negative_stock
+S108,I630049,,Footwear,129361.33,300,missing_item_name
+S108,I631183,,Footwear,116897.46,147,missing_item_name
+S108,I633620,Sony Wh-1000xm5 Headphones,Electronics,41179.75,-13,negative_stock
+S108,I636041,Zara Maxi Dress,Apparel,8845.63,-5,negative_stock
+S108,I649905,,Home Appliances,7330.77,182,missing_item_name
+S108,I661943,Puma Running Shoes,Footwear,-74632.63,300,negative_price
+S108,I662821,Bajaj Mixer Grinder,Home Appliances,38642.12,-7,negative_stock
+S108,I683733,Reebok Nano X4,Footwear,-32128.47,289,negative_price
+S108,I686888,H&m Cotton Shirt,Apparel,123269.15,-16,negative_stock
+S108,I731573,Lg 7kg Washing Machine,Home Appliances,-43283.47,116,negative_price
+S108,I777229,Sony Wh-1000xm5 Headphones,Electronics,-70729.66,439,negative_price
+S108,I797634,,Footwear,87277.77,285,missing_item_name
+S108,I825280,Zara Maxi Dress,Apparel,-37501.96,296,negative_price
+S108,I866874,,Footwear,27208.44,282,missing_item_name
+S108,I880216,,Home Appliances,24038.09,323,missing_item_name
+S108,I889206,,Electronics,142974.05,356,missing_item_name
+S108,I912995,,Home Appliances,81146.22,214,missing_item_name
+S108,I938591,Adidas Ultraboost 23,Footwear,133739.95,-3,negative_stock
+S108,I963510,U.s. Polo T-shirt,Apparel,-3747.15,300,negative_price
+S108,I990537,Nike Air Zoom Pegasus,Footwear,43580.26,-14,negative_stock
+S109,I137958,,Electronics,61606.47,256,missing_item_name
+S109,I157486,Apple Iphone 15 Pro,Electronics,-140907.27,460,negative_price
+S109,I184338,,Home Appliances,103280.17,366,missing_item_name
+S109,I21340,,Electronics,62418.14,476,missing_item_name
+S109,I217527,,Apparel,134561.68,435,missing_item_name
+S109,I233412,H&m Cotton Shirt,Apparel,109793.41,-18,negative_stock
+S109,I276414,Dyson Vacuum Cleaner,Home Appliances,71177.23,-8,negative_stock
+S109,I281819,Levis Denim Jacket,Apparel,-106615.89,317,negative_price
+S109,I294178,Dell Xps 13 Laptop,Electronics,-113689.38,354,negative_price
+S109,I327350,,Apparel,133277.76,16,missing_item_name
+S109,I331409,,Home Appliances,143921.29,68,missing_item_name
+S109,I339186,Zara Maxi Dress,Apparel,-106255.67,30,negative_price
+S109,I380949,,Footwear,3271.86,261,missing_item_name
+S109,I383303,,Electronics,111134.49,260,missing_item_name
+S109,I421933,,Apparel,132702.91,312,missing_item_name
+S109,I422550,,Home Appliances,58426.87,229,missing_item_name
+S109,I446255,Nike Air Zoom Pegasus,Footwear,-93976.58,364,negative_price
+S109,I498433,,Electronics,38630.97,80,missing_item_name
+S109,I502203,Nike Air Zoom Pegasus,Footwear,-1451.71,203,negative_price
+S109,I51686,,Electronics,48550.52,322,missing_item_name
+S109,I54980,,Apparel,-84909.64,267,"missing_item_name,negative_price"
+S109,I621358,Philips Air Fryer,Home Appliances,-119058.38,54,negative_price
+S109,I641791,Samsung Galaxy S24 Ultra,Electronics,-139048.45,256,negative_price
+S109,I67208,Lg 7kg Washing Machine,Home Appliances,110208.81,-11,negative_stock
+S109,I70184,U.s. Polo T-shirt,Apparel,-61430.24,475,negative_price
+S109,I74695,Lg 7kg Washing Machine,Home Appliances,75978.84,-4,negative_stock
+S109,I780319,Philips Air Fryer,Home Appliances,-129022.25,220,negative_price
+S109,I800524,U.s. Polo T-shirt,Apparel,83511.49,-20,negative_stock
+S109,I823610,,Home Appliances,12401.12,215,missing_item_name
+S109,I869168,,Apparel,50338.01,159,missing_item_name
+S109,I893231,Bajaj Mixer Grinder,Home Appliances,3185.51,-12,negative_stock
+S109,I899873,Reebok Nano X4,Footwear,118339.14,-6,negative_stock
+S109,I916636,,Home Appliances,12844.14,430,missing_item_name
+S109,I938385,,Apparel,45140.3,282,missing_item_name
+S109,I967656,Philips Air Fryer,Home Appliances,-88950.52,358,negative_price
+S109,I988707,,Apparel,35843.83,343,missing_item_name
+S110,I168811,Lg 7kg Washing Machine,Home Appliances,-39966.55,134,negative_price
+S110,I179498,,Apparel,27043.45,23,missing_item_name
+S110,I204945,Adidas Ultraboost 23,Footwear,99108.27,-1,negative_stock
+S110,I245483,Dell Xps 13 Laptop,Electronics,96662.87,-13,negative_stock
+S110,I262090,Boat Smartwatch,Electronics,-37611.16,52,negative_price
+S110,I265108,Boat Smartwatch,Electronics,65734.9,-4,negative_stock
+S110,I277888,Dell Xps 13 Laptop,Electronics,-61827.45,370,negative_price
+S110,I307569,U.s. Polo T-shirt,Apparel,70740.85,-11,negative_stock
+S110,I317672,,Apparel,139952.38,181,missing_item_name
+S110,I412339,,Electronics,122763.11,53,missing_item_name
+S110,I418298,Lg 7kg Washing Machine,Home Appliances,34387.17,-4,negative_stock
+S110,I429397,Reebok Nano X4,Footwear,-111670.16,185,negative_price
+S110,I441843,Puma Running Shoes,Footwear,53147.68,-12,negative_stock
+S110,I511698,Nike Air Zoom Pegasus,Footwear,26013.19,-5,negative_stock
+S110,I548638,Nike Air Zoom Pegasus,Footwear,28063.81,-3,negative_stock
+S110,I603286,,Footwear,116674.33,427,missing_item_name
+S110,I611363,Sony Wh-1000xm5 Headphones,Electronics,84559.13,-8,negative_stock
+S110,I726939,,Apparel,119090.47,302,missing_item_name
+S110,I743990,Sony Wh-1000xm5 Headphones,Electronics,-36377.49,302,negative_price
+S110,I749609,Philips Air Fryer,Home Appliances,47372.19,-13,negative_stock
+S110,I751274,Dyson Vacuum Cleaner,Home Appliances,-115484.55,431,negative_price
+S110,I77631,Philips Air Fryer,Home Appliances,23542.56,-15,negative_stock
+S110,I782290,,Footwear,18892.39,11,missing_item_name
+S110,I857710,Bajaj Mixer Grinder,Home Appliances,2801.57,-15,negative_stock
+S110,I897309,Reebok Nano X4,Footwear,-123549.1,467,negative_price
+S110,I917782,H&m Cotton Shirt,Apparel,140962.17,-10,negative_stock
+S110,I918339,,Apparel,58850.7,55,missing_item_name
+S110,I919694,Philips Air Fryer,Home Appliances,136991.57,-18,negative_stock
+S110,I921249,Reebok Nano X4,Footwear,-14396.58,12,negative_price
+S110,I931795,Lg 7kg Washing Machine,Home Appliances,94672.85,-19,negative_stock
+S110,I946719,Dell Xps 13 Laptop,Electronics,-1235.37,445,negative_price
+S110,I964377,Boat Smartwatch,Electronics,115752.21,-1,negative_stock
+S111,I104346,Reebok Nano X4,Footwear,-72728.81,244,negative_price
+S111,I12252,Dyson Vacuum Cleaner,Home Appliances,-36753.23,46,negative_price
+S111,I122856,U.s. Polo T-shirt,Apparel,-147051.87,98,negative_price
+S111,I145361,Lg 7kg Washing Machine,Home Appliances,112399.29,-17,negative_stock
+S111,I177298,U.s. Polo T-shirt,Apparel,-60677.03,180,negative_price
+S111,I235099,Reebok Nano X4,Footwear,64441.11,-3,negative_stock
+S111,I253368,,Electronics,130413.2,443,missing_item_name
+S111,I262806,,Home Appliances,21303.37,368,missing_item_name
+S111,I281828,U.s. Polo T-shirt,Apparel,-136353.43,132,negative_price
+S111,I314041,Samsung 55” Smart Tv,Home Appliances,145635.25,-16,negative_stock
+S111,I346545,Samsung 55” Smart Tv,Home Appliances,117956.99,-13,negative_stock
+S111,I358258,,Apparel,72621.18,224,missing_item_name
+S111,I374464,,Electronics,10720.61,409,missing_item_name
+S111,I388480,Nike Air Zoom Pegasus,Footwear,49803.8,-20,negative_stock
+S111,I398493,,Footwear,108174.39,345,missing_item_name
+S111,I399992,Dyson Vacuum Cleaner,Home Appliances,82011.2,-14,negative_stock
+S111,I450012,Adidas Ultraboost 23,Footwear,-118612.63,214,negative_price
+S111,I516618,,Home Appliances,13649.2,334,missing_item_name
+S111,I518814,Adidas Ultraboost 23,Footwear,-114028.51,180,negative_price
+S111,I530769,Dell Xps 13 Laptop,Electronics,52105.14,-13,negative_stock
+S111,I575557,Dyson Vacuum Cleaner,Home Appliances,-110793.12,209,negative_price
+S111,I598221,U.s. Polo T-shirt,Apparel,-104100.38,123,negative_price
+S111,I609001,,Electronics,75265.75,229,missing_item_name
+S111,I626535,,Electronics,40281.02,100,missing_item_name
+S111,I662088,Dell Xps 13 Laptop,Electronics,-30146.52,55,negative_price
+S111,I675807,,Home Appliances,63533.94,27,missing_item_name
+S111,I702257,,Footwear,81379.68,150,missing_item_name
+S111,I782510,Levis Denim Jacket,Apparel,-134903.92,83,negative_price
+S111,I823512,,Apparel,55339.91,306,missing_item_name
+S111,I834003,,Footwear,140147.65,73,missing_item_name
+S111,I853865,Apple Iphone 15 Pro,Electronics,-36915.62,436,negative_price
+S111,I858943,,Home Appliances,135143.13,344,missing_item_name
+S111,I880407,Zara Maxi Dress,Apparel,-16349.29,381,negative_price
+S111,I892080,Samsung 55” Smart Tv,Home Appliances,-94517.21,151,negative_price
+S112,I117417,Zara Maxi Dress,Apparel,-12985.1,114,negative_price
+S112,I122792,Adidas Ultraboost 23,Footwear,88429.12,-12,negative_stock
+S112,I123677,,Footwear,71342.54,322,missing_item_name
+S112,I147355,,Home Appliances,1131.6,380,missing_item_name
+S112,I150421,,Apparel,63933.29,336,missing_item_name
+S112,I166318,Zara Maxi Dress,Apparel,-1102.19,55,negative_price
+S112,I185821,Boat Smartwatch,Electronics,1652.1,-4,negative_stock
+S112,I198121,Nike Air Zoom Pegasus,Footwear,-21667.61,90,negative_price
+S112,I202361,Bajaj Mixer Grinder,Home Appliances,-121369.82,118,negative_price
+S112,I250306,,Footwear,140765.73,488,missing_item_name
+S112,I252522,Reebok Nano X4,Footwear,51752.94,-5,negative_stock
+S112,I256532,Dyson Vacuum Cleaner,Home Appliances,-22853.51,227,negative_price
+S112,I271384,,Home Appliances,49918.98,79,missing_item_name
+S112,I273977,Samsung Galaxy S24 Ultra,Electronics,-142065.42,177,negative_price
+S112,I323846,Dell Xps 13 Laptop,Electronics,72135.03,-7,negative_stock
+S112,I374335,H&m Cotton Shirt,Apparel,-24768.19,118,negative_price
+S112,I381358,Zara Maxi Dress,Apparel,146349.06,-8,negative_stock
+S112,I420392,,Apparel,77215.05,351,missing_item_name
+S112,I430659,H&m Cotton Shirt,Apparel,11190.96,-2,negative_stock
+S112,I443467,Bajaj Mixer Grinder,Home Appliances,14869.52,-13,negative_stock
+S112,I513256,Skechers Gowalk,Footwear,94504.28,-17,negative_stock
+S112,I555050,Dyson Vacuum Cleaner,Home Appliances,-122402.26,354,negative_price
+S112,I563321,Skechers Gowalk,Footwear,2015.29,-20,negative_stock
+S112,I578737,,Apparel,27152.65,368,missing_item_name
+S112,I638748,Nike Air Zoom Pegasus,Footwear,-101783.79,121,negative_price
+S112,I708204,Samsung 55” Smart Tv,Home Appliances,67457.95,-20,negative_stock
+S112,I745242,,Apparel,48490.14,27,missing_item_name
+S112,I798114,Puma Running Shoes,Footwear,-112925.55,84,negative_price
+S112,I817425,Levis Denim Jacket,Apparel,-54465.0,434,negative_price
+S112,I81912,Bajaj Mixer Grinder,Home Appliances,-94970.77,343,negative_price
+S112,I833496,Nike Air Zoom Pegasus,Footwear,-65822.45,102,negative_price
+S112,I870441,Reebok Nano X4,Footwear,86381.87,-20,negative_stock
+S112,I872661,Adidas Ultraboost 23,Footwear,-135609.56,463,negative_price
+S112,I887775,,Apparel,81827.3,415,missing_item_name
+S112,I900395,Samsung 55” Smart Tv,Home Appliances,-83420.33,248,negative_price
+S112,I918823,Zara Maxi Dress,Apparel,-114641.04,57,negative_price
+S112,I924052,Philips Air Fryer,Home Appliances,28058.32,-14,negative_stock
+S112,I970955,Samsung Galaxy S24 Ultra,Electronics,6745.85,-12,negative_stock
+S112,I974249,,Apparel,86474.39,62,missing_item_name
+S112,I97827,Apple Iphone 15 Pro,Electronics,-40861.78,201,negative_price
+S112,I988341,,Electronics,93736.77,374,missing_item_name
+S113,I126199,,Home Appliances,17226.65,118,missing_item_name
+S113,I127304,Skechers Gowalk,Footwear,-141196.47,244,negative_price
+S113,I169855,Sony Wh-1000xm5 Headphones,Electronics,54828.75,-10,negative_stock
+S113,I250651,,Apparel,67834.88,311,missing_item_name
+S113,I292875,Allen Solly Formal Pants,Apparel,55110.69,-4,negative_stock
+S113,I322670,,Electronics,128372.94,211,missing_item_name
+S113,I323991,Apple Iphone 15 Pro,Electronics,27428.91,-19,negative_stock
+S113,I344599,Zara Maxi Dress,Apparel,-67099.35,378,negative_price
+S113,I377006,,Electronics,55399.89,106,missing_item_name
+S113,I38405,,Apparel,84955.81,89,missing_item_name
+S113,I460733,Dyson Vacuum Cleaner,Home Appliances,-65448.51,397,negative_price
+S113,I515342,H&m Cotton Shirt,Apparel,-39465.75,43,negative_price
+S113,I517521,,Apparel,149871.11,57,missing_item_name
+S113,I525769,Bajaj Mixer Grinder,Home Appliances,143098.18,-14,negative_stock
+S113,I531712,,Electronics,130895.91,37,missing_item_name
+S113,I546529,Sony Wh-1000xm5 Headphones,Electronics,-18644.22,123,negative_price
+S113,I552863,Samsung 55” Smart Tv,Home Appliances,-126518.66,-12,"negative_price,negative_stock"
+S113,I563375,Sony Wh-1000xm5 Headphones,Electronics,-42721.14,359,negative_price
+S113,I568519,,Apparel,111084.36,399,missing_item_name
+S113,I736191,,Home Appliances,93789.0,79,missing_item_name
+S113,I743175,U.s. Polo T-shirt,Apparel,-65063.89,157,negative_price
+S113,I821255,,Home Appliances,132805.77,348,missing_item_name
+S113,I851979,,Apparel,48565.33,149,missing_item_name
+S113,I852008,U.s. Polo T-shirt,Apparel,108155.16,-20,negative_stock
+S113,I889585,,Home Appliances,62074.28,43,missing_item_name
+S113,I92967,,Electronics,89960.4,441,missing_item_name
+S113,I992758,,Electronics,79109.32,377,missing_item_name
+S114,I12519,,Apparel,45369.85,429,missing_item_name
+S114,I132120,Boat Smartwatch,Electronics,75106.25,-8,negative_stock
+S114,I154241,,Footwear,136393.0,46,missing_item_name
+S114,I174247,Samsung 55” Smart Tv,Home Appliances,25515.16,-5,negative_stock
+S114,I232609,Skechers Gowalk,Footwear,-75414.45,157,negative_price
+S114,I254245,,Home Appliances,119152.19,453,missing_item_name
+S114,I261423,,Electronics,102951.48,123,missing_item_name
+S114,I293801,U.s. Polo T-shirt,Apparel,-105413.98,455,negative_price
+S114,I294300,Puma Running Shoes,Footwear,-124103.14,129,negative_price
+S114,I301806,Samsung Galaxy S24 Ultra,Electronics,49578.85,-17,negative_stock
+S114,I314112,H&m Cotton Shirt,Apparel,-70492.95,147,negative_price
+S114,I320107,Nike Air Zoom Pegasus,Footwear,-90147.37,317,negative_price
+S114,I343679,,Footwear,7743.0,97,missing_item_name
+S114,I370838,Philips Air Fryer,Home Appliances,-78088.3,306,negative_price
+S114,I407510,Zara Maxi Dress,Apparel,49506.8,-20,negative_stock
+S114,I408331,,Apparel,-17136.63,41,"missing_item_name,negative_price"
+S114,I429730,Apple Iphone 15 Pro,Electronics,41619.86,-6,negative_stock
+S114,I490247,,Home Appliances,28784.3,305,missing_item_name
+S114,I513774,Puma Running Shoes,Footwear,127024.29,-5,negative_stock
+S114,I526075,,Electronics,30410.8,247,missing_item_name
+S114,I556444,Samsung 55” Smart Tv,Home Appliances,117049.6,-1,negative_stock
+S114,I569020,Philips Air Fryer,Home Appliances,126485.95,-3,negative_stock
+S114,I58264,Puma Running Shoes,Footwear,-68251.43,226,negative_price
+S114,I678618,Adidas Ultraboost 23,Footwear,-117338.88,394,negative_price
+S114,I706084,,Apparel,25321.07,376,missing_item_name
+S114,I713002,Philips Air Fryer,Home Appliances,57757.0,-5,negative_stock
+S114,I72181,U.s. Polo T-shirt,Apparel,15734.58,-15,negative_stock
+S114,I779479,Dyson Vacuum Cleaner,Home Appliances,-3360.17,437,negative_price
+S114,I780928,Skechers Gowalk,Footwear,50035.63,-8,negative_stock
+S114,I798203,Allen Solly Formal Pants,Apparel,90628.69,-20,negative_stock
+S114,I815389,,Electronics,111463.42,106,missing_item_name
+S114,I876173,Philips Air Fryer,Home Appliances,-140795.45,488,negative_price
+S114,I881488,,Home Appliances,26219.72,382,missing_item_name
+S114,I903586,Puma Running Shoes,Footwear,-41468.21,244,negative_price
+S114,I919831,Levis Denim Jacket,Apparel,-54380.04,283,negative_price
+S114,I955177,Nike Air Zoom Pegasus,Footwear,10888.52,-13,negative_stock
+S115,I116074,Zara Maxi Dress,Apparel,71261.27,-6,negative_stock
+S115,I126442,Reebok Nano X4,Footwear,-131395.28,44,negative_price
+S115,I146170,Adidas Ultraboost 23,Footwear,-148699.2,78,negative_price
+S115,I15368,Philips Air Fryer,Home Appliances,87209.22,-19,negative_stock
+S115,I153998,Levis Denim Jacket,Apparel,-75282.76,-15,"negative_price,negative_stock"
+S115,I177402,Boat Smartwatch,Electronics,23207.88,-13,negative_stock
+S115,I198198,Levis Denim Jacket,Apparel,140317.31,-3,negative_stock
+S115,I216691,,Apparel,100305.46,157,missing_item_name
+S115,I247445,,Apparel,93408.15,399,missing_item_name
+S115,I266112,Puma Running Shoes,Footwear,-72812.12,293,negative_price
+S115,I286606,Zara Maxi Dress,Apparel,74108.12,-3,negative_stock
+S115,I288116,,Footwear,29893.91,478,missing_item_name
+S115,I324028,Allen Solly Formal Pants,Apparel,109909.79,-6,negative_stock
+S115,I331847,Sony Wh-1000xm5 Headphones,Electronics,-112259.16,65,negative_price
+S115,I344275,,Apparel,123136.95,402,missing_item_name
+S115,I344479,,Electronics,48621.29,210,missing_item_name
+S115,I393683,,Electronics,4389.12,277,missing_item_name
+S115,I425743,Puma Running Shoes,Footwear,126932.09,-11,negative_stock
+S115,I434988,H&m Cotton Shirt,Apparel,-141944.97,103,negative_price
+S115,I467304,H&m Cotton Shirt,Apparel,752.53,-6,negative_stock
+S115,I475827,H&m Cotton Shirt,Apparel,-112824.94,199,negative_price
+S115,I482088,Samsung Galaxy S24 Ultra,Electronics,-101787.5,56,negative_price
+S115,I502012,Allen Solly Formal Pants,Apparel,-144136.9,197,negative_price
+S115,I515094,,Electronics,32160.72,59,missing_item_name
+S115,I523240,Sony Wh-1000xm5 Headphones,Electronics,93795.27,-12,negative_stock
+S115,I535320,Zara Maxi Dress,Apparel,39770.3,-6,negative_stock
+S115,I587504,Lg 7kg Washing Machine,Home Appliances,56833.27,-3,negative_stock
+S115,I595309,Boat Smartwatch,Electronics,-44374.48,107,negative_price
+S115,I653953,Samsung Galaxy S24 Ultra,Electronics,-56815.85,40,negative_price
+S115,I66647,,Apparel,34611.97,419,missing_item_name
+S115,I743713,,Electronics,68003.57,15,missing_item_name
+S115,I746197,Nike Air Zoom Pegasus,Footwear,96563.72,-4,negative_stock
+S115,I774562,Skechers Gowalk,Footwear,85357.77,-19,negative_stock
+S115,I781580,H&m Cotton Shirt,Apparel,-29439.97,268,negative_price
+S115,I791084,Levis Denim Jacket,Apparel,-79334.98,217,negative_price
+S115,I873159,Samsung Galaxy S24 Ultra,Electronics,135375.07,-3,negative_stock
+S115,I913723,Skechers Gowalk,Footwear,-105677.9,354,negative_price
+S115,I91652,,Footwear,27441.39,397,missing_item_name
+S115,I920908,,Electronics,43207.62,386,missing_item_name
+S115,I923001,Bajaj Mixer Grinder,Home Appliances,117373.75,-14,negative_stock
+S115,I941991,Dell Xps 13 Laptop,Electronics,-131214.96,380,negative_price
+S115,I942439,Reebok Nano X4,Footwear,102998.05,-4,negative_stock
+S115,I94864,Skechers Gowalk,Footwear,18352.86,-5,negative_stock
+S115,I956110,,Electronics,106917.49,382,missing_item_name
+S115,I972753,Adidas Ultraboost 23,Footwear,30432.63,-1,negative_stock
+S115,I978518,H&m Cotton Shirt,Apparel,-1778.82,196,negative_price
+S116,I112404,Zara Maxi Dress,Apparel,42136.09,-19,negative_stock
+S116,I112698,Apple Iphone 15 Pro,Electronics,-114422.19,69,negative_price
+S116,I129574,Reebok Nano X4,Footwear,-113472.69,148,negative_price
+S116,I17367,Philips Air Fryer,Home Appliances,130561.23,-5,negative_stock
+S116,I272132,,Footwear,55230.76,477,missing_item_name
+S116,I280258,,Home Appliances,28442.94,331,missing_item_name
+S116,I289628,Adidas Ultraboost 23,Footwear,97300.13,-8,negative_stock
+S116,I292979,,Electronics,46386.33,341,missing_item_name
+S116,I311935,Sony Wh-1000xm5 Headphones,Electronics,-84148.92,51,negative_price
+S116,I32045,,Apparel,134095.38,15,missing_item_name
+S116,I370559,,Electronics,27430.72,130,missing_item_name
+S116,I479985,Bajaj Mixer Grinder,Home Appliances,92925.27,-18,negative_stock
+S116,I481702,Levis Denim Jacket,Apparel,90597.57,-9,negative_stock
+S116,I492551,,Electronics,130687.76,79,missing_item_name
+S116,I549164,,Apparel,105173.45,147,missing_item_name
+S116,I554974,Dell Xps 13 Laptop,Electronics,127378.78,-6,negative_stock
+S116,I583875,,Footwear,2451.45,464,missing_item_name
+S116,I589419,,Apparel,83948.98,32,missing_item_name
+S116,I602538,,Apparel,62015.44,140,missing_item_name
+S116,I649184,,Home Appliances,132796.79,370,missing_item_name
+S116,I690993,Bajaj Mixer Grinder,Home Appliances,83184.33,-8,negative_stock
+S116,I696864,Sony Wh-1000xm5 Headphones,Electronics,-134591.27,249,negative_price
+S116,I766809,Adidas Ultraboost 23,Footwear,-62955.93,472,negative_price
+S116,I854582,,Footwear,135732.7,269,missing_item_name
+S116,I933124,Skechers Gowalk,Footwear,29280.55,-12,negative_stock
+S116,I939489,,Apparel,126996.44,161,missing_item_name
+S116,I945349,,Footwear,15339.07,99,missing_item_name
+S116,I999201,Dyson Vacuum Cleaner,Home Appliances,130526.75,-11,negative_stock
+S117,I100534,Adidas Ultraboost 23,Footwear,103441.22,-10,negative_stock
+S117,I128179,Dell Xps 13 Laptop,Electronics,-35868.46,-14,"negative_price,negative_stock"
+S117,I148830,Adidas Ultraboost 23,Footwear,-99518.24,85,negative_price
+S117,I163725,Apple Iphone 15 Pro,Electronics,36466.05,-3,negative_stock
+S117,I177114,Allen Solly Formal Pants,Apparel,-140336.7,81,negative_price
+S117,I199295,Reebok Nano X4,Footwear,110842.16,-6,negative_stock
+S117,I24552,,Electronics,76693.38,384,missing_item_name
+S117,I261599,Dell Xps 13 Laptop,Electronics,13744.73,-18,negative_stock
+S117,I267281,,Electronics,9474.56,368,missing_item_name
+S117,I329716,U.s. Polo T-shirt,Apparel,115373.9,-1,negative_stock
+S117,I386092,,Electronics,17366.75,273,missing_item_name
+S117,I419031,Samsung 55” Smart Tv,Home Appliances,53211.32,-14,negative_stock
+S117,I426141,,Home Appliances,-47564.76,223,"missing_item_name,negative_price"
+S117,I488625,Adidas Ultraboost 23,Footwear,116931.18,-1,negative_stock
+S117,I50923,Apple Iphone 15 Pro,Electronics,13085.06,-7,negative_stock
+S117,I539815,Lg 7kg Washing Machine,Home Appliances,101021.21,-18,negative_stock
+S117,I617624,,Home Appliances,19570.56,380,missing_item_name
+S117,I642067,Zara Maxi Dress,Apparel,131042.31,-5,negative_stock
+S117,I663326,Dyson Vacuum Cleaner,Home Appliances,63689.69,-13,negative_stock
+S117,I685806,Reebok Nano X4,Footwear,27198.78,-9,negative_stock
+S117,I738475,Apple Iphone 15 Pro,Electronics,-39205.03,269,negative_price
+S117,I779752,Reebok Nano X4,Footwear,46178.38,-9,negative_stock
+S117,I852735,,Footwear,61240.86,393,missing_item_name
+S117,I862285,H&m Cotton Shirt,Apparel,-149871.43,145,negative_price
+S117,I885034,,Footwear,30213.88,349,missing_item_name
+S117,I979941,,Electronics,48746.79,66,missing_item_name
+S118,I1007276,Zara Maxi Dress,Apparel,65881.82,-19,negative_stock
+S118,I130140,,Apparel,38173.41,83,missing_item_name
+S118,I141243,Reebok Nano X4,Footwear,42732.05,-8,negative_stock
+S118,I154491,Nike Air Zoom Pegasus,Footwear,-80131.99,163,negative_price
+S118,I195485,Sony Wh-1000xm5 Headphones,Electronics,141648.69,-10,negative_stock
+S118,I196126,Adidas Ultraboost 23,Footwear,-6902.23,432,negative_price
+S118,I240961,Levis Denim Jacket,Apparel,-111526.98,316,negative_price
+S118,I253501,Boat Smartwatch,Electronics,-10141.09,35,negative_price
+S118,I26678,Philips Air Fryer,Home Appliances,-69248.18,489,negative_price
+S118,I285058,H&m Cotton Shirt,Apparel,-88176.82,34,negative_price
+S118,I348509,H&m Cotton Shirt,Apparel,-68949.53,36,negative_price
+S118,I35918,Apple Iphone 15 Pro,Electronics,-127997.65,450,negative_price
+S118,I36946,,Footwear,78634.09,349,missing_item_name
+S118,I370168,Samsung 55” Smart Tv,Home Appliances,32121.08,-11,negative_stock
+S118,I382335,Reebok Nano X4,Footwear,-68797.34,299,negative_price
+S118,I401304,Dyson Vacuum Cleaner,Home Appliances,139953.8,-19,negative_stock
+S118,I404661,,Home Appliances,-94011.03,228,"missing_item_name,negative_price"
+S118,I454128,Nike Air Zoom Pegasus,Footwear,58858.93,-14,negative_stock
+S118,I466795,Puma Running Shoes,Footwear,45199.8,-8,negative_stock
+S118,I486065,Samsung Galaxy S24 Ultra,Electronics,-34254.16,377,negative_price
+S118,I513810,U.s. Polo T-shirt,Apparel,95151.91,-6,negative_stock
+S118,I514450,U.s. Polo T-shirt,Apparel,30733.49,-9,negative_stock
+S118,I530158,Samsung 55” Smart Tv,Home Appliances,5997.52,-9,negative_stock
+S118,I536341,,Home Appliances,130222.42,121,missing_item_name
+S118,I542743,Boat Smartwatch,Electronics,-48742.12,35,negative_price
+S118,I556490,Philips Air Fryer,Home Appliances,121602.75,-18,negative_stock
+S118,I744532,Samsung Galaxy S24 Ultra,Electronics,16515.51,-9,negative_stock
+S118,I821898,Nike Air Zoom Pegasus,Footwear,-57076.32,81,negative_price
+S118,I82571,Reebok Nano X4,Footwear,74830.6,-7,negative_stock
+S118,I830603,Levis Denim Jacket,Apparel,23524.12,-15,negative_stock
+S118,I835718,Philips Air Fryer,Home Appliances,-43964.36,91,negative_price
+S118,I876093,Lg 7kg Washing Machine,Home Appliances,-97491.89,405,negative_price
+S118,I883976,Allen Solly Formal Pants,Apparel,28302.52,-16,negative_stock
+S118,I904166,Dyson Vacuum Cleaner,Home Appliances,85507.39,-2,negative_stock
+S118,I910901,Dell Xps 13 Laptop,Electronics,-64066.5,296,negative_price
+S118,I941404,Bajaj Mixer Grinder,Home Appliances,53646.09,-8,negative_stock
+S118,I957967,Lg 7kg Washing Machine,Home Appliances,42607.77,-4,negative_stock
+S119,I155103,,Electronics,58037.63,120,missing_item_name
+S119,I212980,Dell Xps 13 Laptop,Electronics,62332.94,-9,negative_stock
+S119,I25937,Samsung Galaxy S24 Ultra,Electronics,41350.89,-16,negative_stock
+S119,I297677,,Electronics,23753.12,36,missing_item_name
+S119,I320081,Dyson Vacuum Cleaner,Home Appliances,3822.19,-8,negative_stock
+S119,I386909,Reebok Nano X4,Footwear,-79598.27,30,negative_price
+S119,I406352,Boat Smartwatch,Electronics,-4046.6,294,negative_price
+S119,I40669,,Apparel,74867.57,405,missing_item_name
+S119,I527640,Zara Maxi Dress,Apparel,-38978.44,478,negative_price
+S119,I547211,Nike Air Zoom Pegasus,Footwear,56869.77,-17,negative_stock
+S119,I560361,Bajaj Mixer Grinder,Home Appliances,-71556.0,405,negative_price
+S119,I579867,,Apparel,40806.76,474,missing_item_name
+S119,I636003,Dyson Vacuum Cleaner,Home Appliances,-48630.45,43,negative_price
+S119,I656638,Samsung 55” Smart Tv,Home Appliances,-137368.3,217,negative_price
+S119,I673952,Apple Iphone 15 Pro,Electronics,-36928.16,72,negative_price
+S119,I694871,Allen Solly Formal Pants,Apparel,-136317.23,124,negative_price
+S119,I750603,,Electronics,5475.08,305,missing_item_name
+S119,I755890,Zara Maxi Dress,Apparel,36215.34,-12,negative_stock
+S119,I776361,,Apparel,76038.52,398,missing_item_name
+S119,I835340,,Home Appliances,11481.79,340,missing_item_name
+S119,I87630,Puma Running Shoes,Footwear,-107449.18,312,negative_price
+S119,I88041,,Home Appliances,85249.13,255,missing_item_name
+S119,I902238,Samsung Galaxy S24 Ultra,Electronics,-133187.84,244,negative_price
+S120,I113348,,Footwear,79730.54,360,missing_item_name
+S120,I205035,,Home Appliances,50973.86,298,missing_item_name
+S120,I240632,,Electronics,131564.28,388,missing_item_name
+S120,I30928,Samsung Galaxy S24 Ultra,Electronics,-147870.89,186,negative_price
+S120,I33471,,Apparel,99746.69,293,missing_item_name
+S120,I36054,,Footwear,113764.04,233,missing_item_name
+S120,I409427,,Footwear,105090.92,123,missing_item_name
+S120,I435729,,Apparel,58513.11,113,missing_item_name
+S120,I445397,Puma Running Shoes,Footwear,105997.49,-19,negative_stock
+S120,I499195,,Electronics,113386.89,36,missing_item_name
+S120,I521074,,Footwear,110738.44,178,missing_item_name
+S120,I545270,,Electronics,45895.25,193,missing_item_name
+S120,I565074,Bajaj Mixer Grinder,Home Appliances,-66995.48,162,negative_price
+S120,I568467,,Electronics,114290.06,172,missing_item_name
+S120,I655186,H&m Cotton Shirt,Apparel,40213.01,-9,negative_stock
+S120,I690386,Samsung Galaxy S24 Ultra,Electronics,-118723.8,123,negative_price
+S120,I699919,U.s. Polo T-shirt,Apparel,115879.87,-20,negative_stock
+S120,I709593,,Apparel,48747.45,227,missing_item_name
+S120,I726290,,Apparel,41854.99,236,missing_item_name
+S120,I73036,,Electronics,135180.91,362,missing_item_name
+S120,I733613,Dyson Vacuum Cleaner,Home Appliances,-22944.11,140,negative_price
+S120,I758806,,Footwear,84489.76,270,missing_item_name
+S120,I799503,Boat Smartwatch,Electronics,-32757.06,435,negative_price
+S120,I830406,Apple Iphone 15 Pro,Electronics,89453.79,-2,negative_stock
+S120,I899058,Levis Denim Jacket,Apparel,138954.52,-15,negative_stock
+S120,I972042,Philips Air Fryer,Home Appliances,35394.29,-20,negative_stock
+S121,I104009,,Apparel,79719.02,-10,"missing_item_name,negative_stock"
+S121,I10788,Philips Air Fryer,Home Appliances,24688.94,-13,negative_stock
+S121,I109813,Reebok Nano X4,Footwear,-103985.61,498,negative_price
+S121,I115335,U.s. Polo T-shirt,Apparel,-49631.53,90,negative_price
+S121,I115615,,Footwear,128113.48,74,missing_item_name
+S121,I146527,Philips Air Fryer,Home Appliances,-48428.25,113,negative_price
+S121,I151813,Dell Xps 13 Laptop,Electronics,-71196.99,308,negative_price
+S121,I218991,,Footwear,62315.84,488,missing_item_name
+S121,I220245,,Footwear,113854.2,40,missing_item_name
+S121,I274191,,Home Appliances,103150.85,32,missing_item_name
+S121,I287843,Puma Running Shoes,Footwear,-52897.14,342,negative_price
+S121,I310084,Dyson Vacuum Cleaner,Home Appliances,86679.28,-10,negative_stock
+S121,I325062,Philips Air Fryer,Home Appliances,-148482.76,22,negative_price
+S121,I33050,Adidas Ultraboost 23,Footwear,-57059.05,217,negative_price
+S121,I337687,Allen Solly Formal Pants,Apparel,104734.09,-3,negative_stock
+S121,I343065,Boat Smartwatch,Electronics,-127180.67,19,negative_price
+S121,I356447,Skechers Gowalk,Footwear,-25874.46,176,negative_price
+S121,I428287,,Footwear,122833.71,359,missing_item_name
+S121,I442403,,Apparel,23683.53,260,missing_item_name
+S121,I45036,Reebok Nano X4,Footwear,-45271.99,238,negative_price
+S121,I501102,,Footwear,127241.02,19,missing_item_name
+S121,I504036,,Electronics,132649.3,59,missing_item_name
+S121,I545761,Allen Solly Formal Pants,Apparel,21833.54,-5,negative_stock
+S121,I581610,Levis Denim Jacket,Apparel,58347.8,-8,negative_stock
+S121,I58211,,Apparel,43468.67,270,missing_item_name
+S121,I638459,,Home Appliances,36097.1,98,missing_item_name
+S121,I651204,,Apparel,26984.38,279,missing_item_name
+S121,I651453,Skechers Gowalk,Footwear,-138192.12,282,negative_price
+S121,I655954,Lg 7kg Washing Machine,Home Appliances,92335.93,-5,negative_stock
+S121,I663832,,Electronics,113627.32,388,missing_item_name
+S121,I668742,,Apparel,1419.14,323,missing_item_name
+S121,I700877,Bajaj Mixer Grinder,Home Appliances,-34545.67,364,negative_price
+S121,I724977,,Apparel,36790.21,95,missing_item_name
+S121,I76918,Allen Solly Formal Pants,Apparel,-77221.38,287,negative_price
+S121,I805231,Skechers Gowalk,Footwear,114940.51,-2,negative_stock
+S121,I808059,Boat Smartwatch,Electronics,6368.74,-6,negative_stock
+S121,I838856,,Apparel,80316.84,237,missing_item_name
+S122,I10068,Puma Running Shoes,Footwear,143822.9,-6,negative_stock
+S122,I1009322,,Electronics,37000.83,433,missing_item_name
+S122,I112478,Skechers Gowalk,Footwear,11728.58,-14,negative_stock
+S122,I121521,H&m Cotton Shirt,Apparel,-53472.3,74,negative_price
+S122,I125615,Lg 7kg Washing Machine,Home Appliances,-49883.26,160,negative_price
+S122,I145090,,Electronics,89134.33,372,missing_item_name
+S122,I178305,,Home Appliances,77097.73,291,missing_item_name
+S122,I182667,Bajaj Mixer Grinder,Home Appliances,1848.05,-1,negative_stock
+S122,I188208,,Apparel,13335.76,416,missing_item_name
+S122,I207998,Adidas Ultraboost 23,Footwear,-143803.76,175,negative_price
+S122,I237231,,Footwear,42504.28,102,missing_item_name
+S122,I241621,Samsung Galaxy S24 Ultra,Electronics,104188.28,-1,negative_stock
+S122,I263094,,Apparel,31352.34,114,missing_item_name
+S122,I311376,Zara Maxi Dress,Apparel,105031.63,-15,negative_stock
+S122,I317115,,Footwear,101203.25,313,missing_item_name
+S122,I356677,,Apparel,71879.54,129,missing_item_name
+S122,I361397,Skechers Gowalk,Footwear,148096.83,-6,negative_stock
+S122,I370002,H&m Cotton Shirt,Apparel,56064.15,-8,negative_stock
+S122,I438134,,Electronics,79321.24,-15,"missing_item_name,negative_stock"
+S122,I543046,Skechers Gowalk,Footwear,21408.06,-7,negative_stock
+S122,I559913,Lg 7kg Washing Machine,Home Appliances,-99651.23,211,negative_price
+S122,I619815,,Home Appliances,57387.83,461,missing_item_name
+S122,I625925,Lg 7kg Washing Machine,Home Appliances,-130673.02,397,negative_price
+S122,I635151,Nike Air Zoom Pegasus,Footwear,-71851.37,458,negative_price
+S122,I683018,Skechers Gowalk,Footwear,95881.11,-15,negative_stock
+S122,I694585,Boat Smartwatch,Electronics,-103838.51,313,negative_price
+S122,I698565,Skechers Gowalk,Footwear,-32894.69,315,negative_price
+S122,I703181,Bajaj Mixer Grinder,Home Appliances,82773.45,-12,negative_stock
+S122,I723619,Apple Iphone 15 Pro,Electronics,13365.52,-6,negative_stock
+S122,I754086,,Home Appliances,112454.37,126,missing_item_name
+S122,I754450,U.s. Polo T-shirt,Apparel,69065.55,-13,negative_stock
+S122,I761769,,Electronics,16523.14,185,missing_item_name
+S122,I801292,Dyson Vacuum Cleaner,Home Appliances,144313.97,-1,negative_stock
+S122,I804175,,Electronics,115688.79,262,missing_item_name
+S122,I822650,,Electronics,134115.57,259,missing_item_name
+S122,I848683,Samsung Galaxy S24 Ultra,Electronics,65842.83,-13,negative_stock
+S122,I881404,,Electronics,50793.62,443,missing_item_name
+S122,I889567,,Footwear,82550.54,176,missing_item_name
+S122,I894809,,Electronics,86209.53,339,missing_item_name
+S122,I90194,Puma Running Shoes,Footwear,-117189.36,98,negative_price
+S122,I968496,Boat Smartwatch,Electronics,130499.26,-5,negative_stock
+S122,I973824,Philips Air Fryer,Home Appliances,-98291.71,286,negative_price
+S122,I993182,Sony Wh-1000xm5 Headphones,Electronics,-83529.09,174,negative_price
+S123,I1000863,Allen Solly Formal Pants,Apparel,48505.68,-7,negative_stock
+S123,I111961,,Apparel,97399.6,230,missing_item_name
+S123,I16166,Reebok Nano X4,Footwear,-69841.77,415,negative_price
+S123,I237071,Dell Xps 13 Laptop,Electronics,-61540.85,478,negative_price
+S123,I244401,Lg 7kg Washing Machine,Home Appliances,-41586.58,66,negative_price
+S123,I280794,Puma Running Shoes,Footwear,47749.5,-12,negative_stock
+S123,I290349,,Footwear,106498.17,382,missing_item_name
+S123,I291939,Zara Maxi Dress,Apparel,-120066.28,49,negative_price
+S123,I308436,Skechers Gowalk,Footwear,-138914.09,69,negative_price
+S123,I32059,Dell Xps 13 Laptop,Electronics,104404.92,-16,negative_stock
+S123,I329754,Samsung Galaxy S24 Ultra,Electronics,-69304.66,270,negative_price
+S123,I354768,Allen Solly Formal Pants,Apparel,-71069.8,356,negative_price
+S123,I460415,,Apparel,89349.14,153,missing_item_name
+S123,I468135,,Home Appliances,37272.25,372,missing_item_name
+S123,I565974,,Apparel,120549.47,490,missing_item_name
+S123,I584792,,Footwear,49255.61,399,missing_item_name
+S123,I588550,,Apparel,73493.36,344,missing_item_name
+S123,I622104,,Home Appliances,78891.57,473,missing_item_name
+S123,I63779,Boat Smartwatch,Electronics,123319.43,-12,negative_stock
+S123,I641471,,Footwear,12484.37,391,missing_item_name
+S123,I641730,,Footwear,60952.14,101,missing_item_name
+S123,I645608,,Apparel,96043.23,211,missing_item_name
+S123,I662757,H&m Cotton Shirt,Apparel,51593.28,-6,negative_stock
+S123,I757776,Allen Solly Formal Pants,Apparel,-118267.21,301,negative_price
+S123,I811447,Puma Running Shoes,Footwear,117434.43,-18,negative_stock
+S123,I929919,Dell Xps 13 Laptop,Electronics,-139389.78,489,negative_price
+S123,I948847,Apple Iphone 15 Pro,Electronics,-96429.32,174,negative_price
+S123,I96839,,Electronics,144684.68,137,missing_item_name
+S123,I993440,Reebok Nano X4,Footwear,99799.37,-1,negative_stock
+S124,I102042,,Home Appliances,33258.55,240,missing_item_name
+S124,I166222,Allen Solly Formal Pants,Apparel,129734.72,-4,negative_stock
+S124,I168370,,Home Appliances,17744.47,243,missing_item_name
+S124,I172400,,Electronics,21287.25,102,missing_item_name
+S124,I220072,,Apparel,6940.01,411,missing_item_name
+S124,I245718,H&m Cotton Shirt,Apparel,-48052.69,103,negative_price
+S124,I271638,Adidas Ultraboost 23,Footwear,25076.09,-5,negative_stock
+S124,I271723,Samsung 55” Smart Tv,Home Appliances,-56793.42,20,negative_price
+S124,I278194,,Footwear,95265.32,454,missing_item_name
+S124,I320449,Reebok Nano X4,Footwear,48834.42,-7,negative_stock
+S124,I333295,Zara Maxi Dress,Apparel,-133144.23,49,negative_price
+S124,I407266,,Footwear,20224.43,87,missing_item_name
+S124,I426874,,Electronics,52487.56,44,missing_item_name
+S124,I46745,Bajaj Mixer Grinder,Home Appliances,-54552.79,351,negative_price
+S124,I474251,Adidas Ultraboost 23,Footwear,-21421.9,61,negative_price
+S124,I530954,Apple Iphone 15 Pro,Electronics,-63360.92,47,negative_price
+S124,I536171,,Apparel,122833.56,116,missing_item_name
+S124,I583560,Allen Solly Formal Pants,Apparel,72283.22,-15,negative_stock
+S124,I629969,Dell Xps 13 Laptop,Electronics,102253.78,-5,negative_stock
+S124,I72311,,Home Appliances,120747.48,382,missing_item_name
+S124,I753833,,Footwear,98765.81,33,missing_item_name
+S124,I92992,Dell Xps 13 Laptop,Electronics,-37546.83,224,negative_price
+S124,I932736,,Electronics,119620.25,50,missing_item_name
+S125,I105391,Puma Running Shoes,Footwear,142845.92,-8,negative_stock
+S125,I145934,Skechers Gowalk,Footwear,50264.85,-10,negative_stock
+S125,I152842,Dyson Vacuum Cleaner,Home Appliances,36800.16,-4,negative_stock
+S125,I165585,,Home Appliances,127232.3,122,missing_item_name
+S125,I216944,,Home Appliances,67746.19,54,missing_item_name
+S125,I234916,Levis Denim Jacket,Apparel,118183.41,-7,negative_stock
+S125,I238013,,Footwear,84657.55,227,missing_item_name
+S125,I252725,Samsung 55” Smart Tv,Home Appliances,115187.15,-6,negative_stock
+S125,I259235,Nike Air Zoom Pegasus,Footwear,-16820.39,334,negative_price
+S125,I284021,Bajaj Mixer Grinder,Home Appliances,139446.87,-16,negative_stock
+S125,I297698,Reebok Nano X4,Footwear,-90409.48,41,negative_price
+S125,I334272,,Footwear,148744.9,314,missing_item_name
+S125,I34877,,Apparel,46262.95,365,missing_item_name
+S125,I444623,H&m Cotton Shirt,Apparel,-33243.72,272,negative_price
+S125,I489949,Dyson Vacuum Cleaner,Home Appliances,88755.17,-10,negative_stock
+S125,I496500,,Electronics,-69404.11,407,"missing_item_name,negative_price"
+S125,I517622,Lg 7kg Washing Machine,Home Appliances,-43306.17,197,negative_price
+S125,I557427,,Apparel,91335.32,437,missing_item_name
+S125,I563324,Philips Air Fryer,Home Appliances,-4441.58,295,negative_price
+S125,I574559,,Footwear,113589.69,427,missing_item_name
+S125,I650056,Sony Wh-1000xm5 Headphones,Electronics,66887.12,-15,negative_stock
+S125,I759030,Samsung 55” Smart Tv,Home Appliances,85786.4,-8,negative_stock
+S125,I771018,,Home Appliances,9176.37,152,missing_item_name
+S125,I829549,,Apparel,140133.84,190,missing_item_name
+S125,I83555,H&m Cotton Shirt,Apparel,135366.76,-5,negative_stock
+S125,I855608,Nike Air Zoom Pegasus,Footwear,142645.66,-12,negative_stock
+S125,I886593,Lg 7kg Washing Machine,Home Appliances,105578.55,-20,negative_stock
+S125,I909685,,Apparel,139616.62,341,missing_item_name
+S125,I910098,Bajaj Mixer Grinder,Home Appliances,135116.61,-19,negative_stock
+S125,I953988,,Home Appliances,115257.4,473,missing_item_name
+S126,I102049,Allen Solly Formal Pants,Apparel,63303.55,-17,negative_stock
+S126,I177898,,Footwear,77076.56,211,missing_item_name
+S126,I178668,,Footwear,46409.05,484,missing_item_name
+S126,I198817,Skechers Gowalk,Footwear,-100098.64,297,negative_price
+S126,I21654,,Footwear,86172.25,312,missing_item_name
+S126,I226199,Zara Maxi Dress,Apparel,-112926.46,403,negative_price
+S126,I235113,,Home Appliances,24266.16,310,missing_item_name
+S126,I242937,Dyson Vacuum Cleaner,Home Appliances,146237.67,-9,negative_stock
+S126,I261635,,Home Appliances,120174.25,263,missing_item_name
+S126,I285300,,Electronics,143546.62,254,missing_item_name
+S126,I296055,Samsung 55” Smart Tv,Home Appliances,6426.41,-6,negative_stock
+S126,I306833,,Footwear,63331.38,355,missing_item_name
+S126,I393653,,Home Appliances,6426.2,411,missing_item_name
+S126,I410260,,Home Appliances,35946.28,425,missing_item_name
+S126,I457461,,Apparel,148579.53,34,missing_item_name
+S126,I548733,Nike Air Zoom Pegasus,Footwear,17256.62,-2,negative_stock
+S126,I55030,Samsung Galaxy S24 Ultra,Electronics,70017.92,-6,negative_stock
+S126,I576917,Puma Running Shoes,Footwear,-137235.39,160,negative_price
+S126,I581828,Apple Iphone 15 Pro,Electronics,-134805.19,77,negative_price
+S126,I627185,H&m Cotton Shirt,Apparel,102007.47,-6,negative_stock
+S126,I632215,H&m Cotton Shirt,Apparel,-84470.23,164,negative_price
+S126,I636786,,Home Appliances,88577.31,109,missing_item_name
+S126,I658101,,Footwear,14777.17,149,missing_item_name
+S126,I674489,Boat Smartwatch,Electronics,-25982.52,108,negative_price
+S126,I681578,U.s. Polo T-shirt,Apparel,128806.05,-6,negative_stock
+S126,I734117,Lg 7kg Washing Machine,Home Appliances,107015.75,-10,negative_stock
+S126,I736810,,Footwear,128732.26,195,missing_item_name
+S126,I782623,Puma Running Shoes,Footwear,50972.63,-9,negative_stock
+S126,I790683,,Footwear,31200.7,177,missing_item_name
+S126,I79339,Dyson Vacuum Cleaner,Home Appliances,-47948.3,349,negative_price
+S126,I832132,Sony Wh-1000xm5 Headphones,Electronics,24808.22,-9,negative_stock
+S126,I85590,Samsung Galaxy S24 Ultra,Electronics,-12702.94,489,negative_price
+S126,I932316,,Footwear,24000.48,182,missing_item_name
+S126,I966537,Sony Wh-1000xm5 Headphones,Electronics,17148.6,-13,negative_stock
+S126,I970023,Puma Running Shoes,Footwear,-122867.07,-2,"negative_price,negative_stock"
+S126,I995583,,Electronics,35507.24,236,missing_item_name
+S127,,Boat Smartwatch,Electronics,111964.41,84,missing_item_id
+S127,I1009526,Reebok Nano X4,Footwear,58430.51,-6,negative_stock
+S127,I101680,Samsung Galaxy S24 Ultra,Electronics,-12270.24,319,negative_price
+S127,I130384,Apple Iphone 15 Pro,Electronics,-109811.02,285,negative_price
+S127,I163006,,Apparel,130394.37,206,missing_item_name
+S127,I200617,Adidas Ultraboost 23,Footwear,-93639.89,473,negative_price
+S127,I282738,Zara Maxi Dress,Apparel,149662.43,-17,negative_stock
+S127,I311833,,Footwear,49354.9,341,missing_item_name
+S127,I318236,,Apparel,33009.61,440,missing_item_name
+S127,I341445,,Electronics,103139.7,147,missing_item_name
+S127,I386706,Reebok Nano X4,Footwear,-69693.05,88,negative_price
+S127,I408886,Lg 7kg Washing Machine,Home Appliances,144696.99,-6,negative_stock
+S127,I416038,Skechers Gowalk,Footwear,56243.29,-13,negative_stock
+S127,I507127,Reebok Nano X4,Footwear,-9777.5,255,negative_price
+S127,I545903,,Footwear,128207.24,18,missing_item_name
+S127,I627780,Levis Denim Jacket,Apparel,67066.04,-8,negative_stock
+S127,I672632,Puma Running Shoes,Footwear,53157.32,-15,negative_stock
+S127,I678051,H&m Cotton Shirt,Apparel,-3538.23,380,negative_price
+S127,I678662,Levis Denim Jacket,Apparel,130322.49,-20,negative_stock
+S127,I697928,Adidas Ultraboost 23,Footwear,-47943.7,271,negative_price
+S127,I703290,,Footwear,70455.29,443,missing_item_name
+S127,I711843,Apple Iphone 15 Pro,Electronics,145265.79,-2,negative_stock
+S127,I727613,Allen Solly Formal Pants,Apparel,-93291.08,234,negative_price
+S127,I73331,,Electronics,27026.28,331,missing_item_name
+S127,I771873,Philips Air Fryer,Home Appliances,-149018.44,400,negative_price
+S127,I819253,Zara Maxi Dress,Apparel,119788.82,-5,negative_stock
+S127,I827314,,Home Appliances,79213.54,261,missing_item_name
+S127,I842027,Reebok Nano X4,Footwear,128076.98,-19,negative_stock
+S127,I857696,,Home Appliances,62005.96,131,missing_item_name
+S127,I858198,Allen Solly Formal Pants,Apparel,-77890.96,74,negative_price
+S127,I870862,Skechers Gowalk,Footwear,140062.2,-9,negative_stock
+S127,I877666,,Footwear,95610.35,164,missing_item_name
+S127,I933083,Bajaj Mixer Grinder,Home Appliances,84623.36,-9,negative_stock
+S127,I937843,,Electronics,148456.28,212,missing_item_name
+S128,I112176,Allen Solly Formal Pants,Apparel,-1842.16,91,negative_price
+S128,I123169,Reebok Nano X4,Footwear,149988.84,-6,negative_stock
+S128,I148874,,Home Appliances,108281.59,258,missing_item_name
+S128,I212164,Skechers Gowalk,Footwear,-57396.38,283,negative_price
+S128,I244861,Bajaj Mixer Grinder,Home Appliances,-27911.98,310,negative_price
+S128,I254935,Dyson Vacuum Cleaner,Home Appliances,-92952.84,382,negative_price
+S128,I28695,Puma Running Shoes,Footwear,69269.94,-13,negative_stock
+S128,I309647,Zara Maxi Dress,Apparel,38403.02,-4,negative_stock
+S128,I320670,Nike Air Zoom Pegasus,Footwear,133471.39,-7,negative_stock
+S128,I321434,,Apparel,42766.53,473,missing_item_name
+S128,I328748,Adidas Ultraboost 23,Footwear,-117709.9,40,negative_price
+S128,I340923,Samsung Galaxy S24 Ultra,Electronics,127144.0,-17,negative_stock
+S128,I412304,,Home Appliances,3220.52,286,missing_item_name
+S128,I449137,Samsung Galaxy S24 Ultra,Electronics,-122060.27,319,negative_price
+S128,I45816,Boat Smartwatch,Electronics,94815.61,-11,negative_stock
+S128,I461710,Samsung Galaxy S24 Ultra,Electronics,60995.59,-9,negative_stock
+S128,I476362,Dell Xps 13 Laptop,Electronics,-71430.4,259,negative_price
+S128,I479560,,Apparel,51392.82,451,missing_item_name
+S128,I508818,Adidas Ultraboost 23,Footwear,70545.82,-11,negative_stock
+S128,I554753,,Electronics,41116.79,29,missing_item_name
+S128,I557931,Dell Xps 13 Laptop,Electronics,56375.35,-14,negative_stock
+S128,I57499,Zara Maxi Dress,Apparel,101018.04,-11,negative_stock
+S128,I589854,,Apparel,133404.34,76,missing_item_name
+S128,I648293,,Footwear,5666.15,292,missing_item_name
+S128,I649378,Boat Smartwatch,Electronics,-77101.97,222,negative_price
+S128,I767203,Philips Air Fryer,Home Appliances,14825.67,-2,negative_stock
+S128,I770574,Samsung 55” Smart Tv,Home Appliances,-523.98,370,negative_price
+S128,I793186,Bajaj Mixer Grinder,Home Appliances,-92253.36,15,negative_price
+S128,I798527,,Electronics,68812.56,187,missing_item_name
+S128,I829681,,Home Appliances,85233.77,490,missing_item_name
+S128,I829754,Zara Maxi Dress,Apparel,51907.82,-12,negative_stock
+S128,I884970,Sony Wh-1000xm5 Headphones,Electronics,122461.63,-11,negative_stock
+S128,I889268,Skechers Gowalk,Footwear,-36855.41,243,negative_price
+S128,I895051,Samsung Galaxy S24 Ultra,Electronics,-148136.77,205,negative_price
+S128,I921990,H&m Cotton Shirt,Apparel,-84958.36,126,negative_price
+S128,I935677,,Apparel,133384.72,100,missing_item_name
+S128,I950906,H&m Cotton Shirt,Apparel,69423.9,-6,negative_stock
+S129,I1000882,Samsung 55” Smart Tv,Home Appliances,66117.23,-7,negative_stock
+S129,I127646,Samsung 55” Smart Tv,Home Appliances,72192.92,-15,negative_stock
+S129,I148251,H&m Cotton Shirt,Apparel,-81709.37,253,negative_price
+S129,I157625,Philips Air Fryer,Home Appliances,-102319.48,436,negative_price
+S129,I234860,Zara Maxi Dress,Apparel,70869.68,-1,negative_stock
+S129,I266617,Lg 7kg Washing Machine,Home Appliances,139285.85,-2,negative_stock
+S129,I312701,,Footwear,100350.6,456,missing_item_name
+S129,I313368,Allen Solly Formal Pants,Apparel,-148438.59,363,negative_price
+S129,I321558,Dell Xps 13 Laptop,Electronics,-66482.06,493,negative_price
+S129,I352958,Levis Denim Jacket,Apparel,34914.7,-7,negative_stock
+S129,I404633,Nike Air Zoom Pegasus,Footwear,-53061.84,325,negative_price
+S129,I425368,Lg 7kg Washing Machine,Home Appliances,-146178.0,54,negative_price
+S129,I442415,,Electronics,86197.47,67,missing_item_name
+S129,I593357,,Footwear,147402.31,381,missing_item_name
+S129,I596714,Adidas Ultraboost 23,Footwear,-137396.89,370,negative_price
+S129,I648193,,Home Appliances,96531.37,34,missing_item_name
+S129,I656707,Bajaj Mixer Grinder,Home Appliances,-117217.06,297,negative_price
+S129,I681771,,Footwear,67448.44,-18,"missing_item_name,negative_stock"
+S129,I687111,Dell Xps 13 Laptop,Electronics,-10826.17,350,negative_price
+S129,I691726,Adidas Ultraboost 23,Footwear,-52052.95,251,negative_price
+S129,I703937,Apple Iphone 15 Pro,Electronics,-78569.0,163,negative_price
+S129,I71252,Bajaj Mixer Grinder,Home Appliances,-109697.7,133,negative_price
+S129,I747462,,Apparel,18718.12,-15,"missing_item_name,negative_stock"
+S129,I757926,,Apparel,40134.66,-12,"missing_item_name,negative_stock"
+S129,I780035,Adidas Ultraboost 23,Footwear,-129928.93,15,negative_price
+S129,I784767,Adidas Ultraboost 23,Footwear,132759.94,-7,negative_stock
+S129,I789020,,Home Appliances,107944.97,311,missing_item_name
+S129,I794990,Levis Denim Jacket,Apparel,112504.97,-8,negative_stock
+S129,I814548,Dell Xps 13 Laptop,Electronics,-143504.05,199,negative_price
+S129,I83206,,Electronics,99562.83,261,missing_item_name
+S129,I886679,Skechers Gowalk,Footwear,12058.48,-4,negative_stock
+S129,I912958,Apple Iphone 15 Pro,Electronics,62138.13,-17,negative_stock
+S129,I924804,H&m Cotton Shirt,Apparel,63067.23,-15,negative_stock
+S129,I953072,Samsung 55” Smart Tv,Home Appliances,59992.02,-7,negative_stock
+S129,I966449,Levis Denim Jacket,Apparel,11300.14,-20,negative_stock
+S129,I99589,Sony Wh-1000xm5 Headphones,Electronics,80704.0,-4,negative_stock
+S130,I112272,Apple Iphone 15 Pro,Electronics,-108964.92,292,negative_price
+S130,I13236,Skechers Gowalk,Footwear,-96107.58,452,negative_price
+S130,I169563,H&m Cotton Shirt,Apparel,-94885.58,404,negative_price
+S130,I213639,,Electronics,78748.08,16,missing_item_name
+S130,I215527,,Home Appliances,145367.54,143,missing_item_name
+S130,I216817,Dyson Vacuum Cleaner,Home Appliances,-101165.08,131,negative_price
+S130,I218969,Levis Denim Jacket,Apparel,102410.03,-10,negative_stock
+S130,I230662,,Footwear,52354.76,216,missing_item_name
+S130,I244781,,Home Appliances,133202.28,395,missing_item_name
+S130,I276048,Zara Maxi Dress,Apparel,-17946.13,335,negative_price
+S130,I285983,Samsung Galaxy S24 Ultra,Electronics,-3187.67,51,negative_price
+S130,I323045,Allen Solly Formal Pants,Apparel,-95506.54,261,negative_price
+S130,I376204,,Electronics,56615.72,107,missing_item_name
+S130,I378022,Lg 7kg Washing Machine,Home Appliances,142923.32,-18,negative_stock
+S130,I38415,,Apparel,46332.34,486,missing_item_name
+S130,I401361,U.s. Polo T-shirt,Apparel,-87293.7,442,negative_price
+S130,I404816,Adidas Ultraboost 23,Footwear,-30125.7,490,negative_price
+S130,I416832,Sony Wh-1000xm5 Headphones,Electronics,-37323.49,103,negative_price
+S130,I426693,Sony Wh-1000xm5 Headphones,Electronics,-92213.72,465,negative_price
+S130,I480119,Allen Solly Formal Pants,Apparel,-133179.27,343,negative_price
+S130,I488754,Boat Smartwatch,Electronics,123804.26,-19,negative_stock
+S130,I529160,Philips Air Fryer,Home Appliances,106652.17,-8,negative_stock
+S130,I585781,Sony Wh-1000xm5 Headphones,Electronics,11129.43,-7,negative_stock
+S130,I622132,,Footwear,21450.98,424,missing_item_name
+S130,I665648,Apple Iphone 15 Pro,Electronics,31875.42,-12,negative_stock
+S130,I68123,Dyson Vacuum Cleaner,Home Appliances,19150.56,-8,negative_stock
+S130,I68844,Skechers Gowalk,Footwear,71227.99,-10,negative_stock
+S130,I690437,Samsung Galaxy S24 Ultra,Electronics,50698.04,-16,negative_stock
+S130,I761356,H&m Cotton Shirt,Apparel,132881.22,-16,negative_stock
+S130,I804540,Samsung 55” Smart Tv,Home Appliances,79067.18,-13,negative_stock
+S130,I808736,,Footwear,46284.09,171,missing_item_name
+S130,I812818,,Apparel,63114.07,342,missing_item_name
+S130,I848407,Reebok Nano X4,Footwear,14094.07,-9,negative_stock
+S130,I887563,,Apparel,76728.47,253,missing_item_name
+S130,I946668,Bajaj Mixer Grinder,Home Appliances,-18765.91,-10,"negative_price,negative_stock"
+S130,I97184,,Electronics,82619.27,285,missing_item_name
+S130,I999958,Bajaj Mixer Grinder,Home Appliances,-114446.81,207,negative_price
+S131,I1002878,Skechers Gowalk,Footwear,-120734.82,295,negative_price
+S131,I130514,,Home Appliances,133180.29,418,missing_item_name
+S131,I179872,Apple Iphone 15 Pro,Electronics,36893.3,-14,negative_stock
+S131,I182502,Dyson Vacuum Cleaner,Home Appliances,43412.19,-7,negative_stock
+S131,I20035,H&m Cotton Shirt,Apparel,125177.4,-1,negative_stock
+S131,I22049,Boat Smartwatch,Electronics,-97970.65,255,negative_price
+S131,I232420,Levis Denim Jacket,Apparel,26504.66,-1,negative_stock
+S131,I241188,,Apparel,11670.92,148,missing_item_name
+S131,I299749,,Electronics,72536.1,126,missing_item_name
+S131,I307803,Samsung Galaxy S24 Ultra,Electronics,56597.52,-1,negative_stock
+S131,I316303,,Apparel,112090.77,389,missing_item_name
+S131,I411383,Samsung 55” Smart Tv,Home Appliances,-142531.5,302,negative_price
+S131,I432314,Adidas Ultraboost 23,Footwear,37567.79,-4,negative_stock
+S131,I443990,Dyson Vacuum Cleaner,Home Appliances,2916.54,-1,negative_stock
+S131,I466853,Apple Iphone 15 Pro,Electronics,90383.49,-2,negative_stock
+S131,I46729,Boat Smartwatch,Electronics,-141271.17,296,negative_price
+S131,I485469,,Home Appliances,80569.9,65,missing_item_name
+S131,I489307,Skechers Gowalk,Footwear,-38263.66,363,negative_price
+S131,I507927,Philips Air Fryer,Home Appliances,-133514.31,94,negative_price
+S131,I516015,Lg 7kg Washing Machine,Home Appliances,23710.91,-15,negative_stock
+S131,I519373,Boat Smartwatch,Electronics,83103.32,-11,negative_stock
+S131,I546631,,Footwear,68563.06,449,missing_item_name
+S131,I558486,Levis Denim Jacket,Apparel,-104254.27,166,negative_price
+S131,I580004,Allen Solly Formal Pants,Apparel,-42666.53,195,negative_price
+S131,I583931,,Footwear,44662.69,235,missing_item_name
+S131,I612488,Puma Running Shoes,Footwear,80041.29,-7,negative_stock
+S131,I618120,Sony Wh-1000xm5 Headphones,Electronics,116036.25,-13,negative_stock
+S131,I624922,H&m Cotton Shirt,Apparel,-36990.55,420,negative_price
+S131,I667408,Sony Wh-1000xm5 Headphones,Electronics,41523.12,-17,negative_stock
+S131,I67211,,Electronics,65853.21,69,missing_item_name
+S131,I699402,,Footwear,42480.93,303,missing_item_name
+S131,I699645,Dell Xps 13 Laptop,Electronics,-29029.49,273,negative_price
+S131,I73194,Reebok Nano X4,Footwear,14201.13,-11,negative_stock
+S131,I76903,,Electronics,56895.64,318,missing_item_name
+S131,I770235,Reebok Nano X4,Footwear,1044.33,-17,negative_stock
+S131,I860428,Lg 7kg Washing Machine,Home Appliances,8790.06,-14,negative_stock
+S131,I890717,Apple Iphone 15 Pro,Electronics,73146.72,-16,negative_stock
+S131,I968562,,Home Appliances,105666.34,50,missing_item_name
+S131,I982235,Samsung Galaxy S24 Ultra,Electronics,-124819.07,366,negative_price
+S132,,H&m Cotton Shirt,Apparel,112312.2,192,missing_item_id
+S132,I200244,,Apparel,45473.52,116,missing_item_name
+S132,I202209,H&m Cotton Shirt,Apparel,37256.23,-1,negative_stock
+S132,I20965,Sony Wh-1000xm5 Headphones,Electronics,130568.43,-7,negative_stock
+S132,I211536,H&m Cotton Shirt,Apparel,98183.33,-19,negative_stock
+S132,I235753,,Footwear,124444.66,193,missing_item_name
+S132,I312137,Skechers Gowalk,Footwear,-130917.32,455,negative_price
+S132,I355420,Sony Wh-1000xm5 Headphones,Electronics,39117.88,-5,negative_stock
+S132,I379173,Philips Air Fryer,Home Appliances,62928.06,-8,negative_stock
+S132,I430734,Lg 7kg Washing Machine,Home Appliances,143034.11,-15,negative_stock
+S132,I433036,Nike Air Zoom Pegasus,Footwear,-85580.19,475,negative_price
+S132,I524729,,Home Appliances,146423.32,330,missing_item_name
+S132,I579711,Samsung Galaxy S24 Ultra,Electronics,-69855.76,220,negative_price
+S132,I608550,Levis Denim Jacket,Apparel,-124128.53,52,negative_price
+S132,I627756,Reebok Nano X4,Footwear,-99614.77,335,negative_price
+S132,I649751,,Footwear,134328.84,106,missing_item_name
+S132,I67559,Lg 7kg Washing Machine,Home Appliances,-84007.68,119,negative_price
+S132,I801037,Lg 7kg Washing Machine,Home Appliances,53713.31,-5,negative_stock
+S132,I861179,Samsung Galaxy S24 Ultra,Electronics,70770.98,-20,negative_stock
+S132,I882918,,Apparel,118562.64,233,missing_item_name
+S132,I940964,,Apparel,40891.12,179,missing_item_name
+S132,I958258,Samsung 55” Smart Tv,Home Appliances,138632.14,-3,negative_stock
+S132,I983033,Bajaj Mixer Grinder,Home Appliances,-8720.07,436,negative_price
+S132,I997561,,Footwear,121892.28,469,missing_item_name
+S133,I107819,Boat Smartwatch,Electronics,58618.47,-18,negative_stock
+S133,I116788,Adidas Ultraboost 23,Footwear,-62180.95,122,negative_price
+S133,I116850,Lg 7kg Washing Machine,Home Appliances,-87557.17,412,negative_price
+S133,I135398,Philips Air Fryer,Home Appliances,23732.47,-9,negative_stock
+S133,I139672,,Apparel,34760.18,216,missing_item_name
+S133,I186686,Apple Iphone 15 Pro,Electronics,-123034.63,474,negative_price
+S133,I207388,Bajaj Mixer Grinder,Home Appliances,-43099.25,119,negative_price
+S133,I224765,Levis Denim Jacket,Apparel,39450.61,-17,negative_stock
+S133,I227104,,Footwear,6303.81,152,missing_item_name
+S133,I235047,Lg 7kg Washing Machine,Home Appliances,31074.35,-2,negative_stock
+S133,I283266,Adidas Ultraboost 23,Footwear,141622.7,-17,negative_stock
+S133,I317300,,Electronics,42822.57,190,missing_item_name
+S133,I358877,,Apparel,129722.61,208,missing_item_name
+S133,I383492,Skechers Gowalk,Footwear,-113706.33,407,negative_price
+S133,I409337,Dyson Vacuum Cleaner,Home Appliances,-125129.51,402,negative_price
+S133,I497387,,Electronics,42088.7,291,missing_item_name
+S133,I498530,U.s. Polo T-shirt,Apparel,-111499.17,449,negative_price
+S133,I510388,,Electronics,-80637.43,43,"missing_item_name,negative_price"
+S133,I512899,Dyson Vacuum Cleaner,Home Appliances,147157.13,-9,negative_stock
+S133,I545141,,Electronics,124010.44,303,missing_item_name
+S133,I549958,H&m Cotton Shirt,Apparel,-117677.88,384,negative_price
+S133,I613508,Skechers Gowalk,Footwear,83092.71,-14,negative_stock
+S133,I65940,Allen Solly Formal Pants,Apparel,-48631.2,379,negative_price
+S133,I704797,Bajaj Mixer Grinder,Home Appliances,32671.67,-7,negative_stock
+S133,I721595,Lg 7kg Washing Machine,Home Appliances,99320.95,-9,negative_stock
+S133,I730477,Puma Running Shoes,Footwear,-81227.03,334,negative_price
+S133,I757083,Zara Maxi Dress,Apparel,96021.56,-18,negative_stock
+S133,I774156,,Apparel,75489.13,50,missing_item_name
+S133,I804218,H&m Cotton Shirt,Apparel,-33777.18,454,negative_price
+S133,I808176,Skechers Gowalk,Footwear,145813.52,-20,negative_stock
+S133,I858772,,Electronics,75024.18,400,missing_item_name
+S133,I866221,,Footwear,98293.79,403,missing_item_name
+S133,I877974,,Electronics,24896.21,62,missing_item_name
+S133,I909061,,Electronics,107707.34,311,missing_item_name
+S133,I916488,,Footwear,120651.73,326,missing_item_name
+S133,I957283,,Electronics,-16427.47,257,"missing_item_name,negative_price"
+S134,I110488,Zara Maxi Dress,Apparel,131080.05,-16,negative_stock
+S134,I123372,Lg 7kg Washing Machine,Home Appliances,64142.72,-11,negative_stock
+S134,I13086,Bajaj Mixer Grinder,Home Appliances,-33465.96,400,negative_price
+S134,I141001,,Home Appliances,130608.32,237,missing_item_name
+S134,I144707,,Apparel,102525.93,-4,"missing_item_name,negative_stock"
+S134,I196527,,Footwear,21282.66,499,missing_item_name
+S134,I217456,,Footwear,142361.43,342,missing_item_name
+S134,I221031,H&m Cotton Shirt,Apparel,-68227.65,383,negative_price
+S134,I226621,Levis Denim Jacket,Apparel,15302.82,-5,negative_stock
+S134,I278009,,Footwear,65547.32,111,missing_item_name
+S134,I307072,Skechers Gowalk,Footwear,-100256.93,225,negative_price
+S134,I342968,Zara Maxi Dress,Apparel,-100052.02,214,negative_price
+S134,I439282,,Electronics,67603.49,268,missing_item_name
+S134,I44551,U.s. Polo T-shirt,Apparel,-69847.91,248,negative_price
+S134,I469206,,Apparel,-83951.12,485,"missing_item_name,negative_price"
+S134,I508140,Sony Wh-1000xm5 Headphones,Electronics,52266.91,-10,negative_stock
+S134,I52229,U.s. Polo T-shirt,Apparel,-23485.26,477,negative_price
+S134,I53811,H&m Cotton Shirt,Apparel,-147962.43,57,negative_price
+S134,I586507,,Footwear,27777.19,360,missing_item_name
+S134,I595880,,Apparel,28944.75,206,missing_item_name
+S134,I615738,Zara Maxi Dress,Apparel,127558.22,-20,negative_stock
+S134,I620831,Reebok Nano X4,Footwear,-131596.21,272,negative_price
+S134,I734465,Lg 7kg Washing Machine,Home Appliances,83495.38,-4,negative_stock
+S134,I736474,,Apparel,28150.29,48,missing_item_name
+S134,I786248,,Footwear,140489.78,430,missing_item_name
+S134,I806914,,Home Appliances,7284.96,33,missing_item_name
+S134,I838974,Puma Running Shoes,Footwear,-97684.8,490,negative_price
+S134,I862051,,Home Appliances,91725.39,261,missing_item_name
+S134,I87393,Skechers Gowalk,Footwear,148693.71,-4,negative_stock
+S134,I874568,Bajaj Mixer Grinder,Home Appliances,62612.45,-10,negative_stock
+S134,I902185,,Home Appliances,7789.25,184,missing_item_name
+S134,I915036,H&m Cotton Shirt,Apparel,47723.74,-13,negative_stock
+S134,I959031,Allen Solly Formal Pants,Apparel,93890.47,-2,negative_stock
+S134,I975346,Boat Smartwatch,Electronics,4703.05,-7,negative_stock
+S135,I101733,Bajaj Mixer Grinder,Home Appliances,30849.54,-14,negative_stock
+S135,I156497,Dell Xps 13 Laptop,Electronics,101804.67,-3,negative_stock
+S135,I194620,Sony Wh-1000xm5 Headphones,Electronics,143080.21,-6,negative_stock
+S135,I200074,Apple Iphone 15 Pro,Electronics,-1097.4,270,negative_price
+S135,I212382,Dell Xps 13 Laptop,Electronics,80153.06,-1,negative_stock
+S135,I253470,,Apparel,46531.99,142,missing_item_name
+S135,I311166,,Apparel,112625.59,250,missing_item_name
+S135,I315212,Levis Denim Jacket,Apparel,-112961.1,144,negative_price
+S135,I362189,Apple Iphone 15 Pro,Electronics,-15613.31,483,negative_price
+S135,I402061,Sony Wh-1000xm5 Headphones,Electronics,83824.4,-14,negative_stock
+S135,I41972,Dyson Vacuum Cleaner,Home Appliances,-70762.17,460,negative_price
+S135,I432454,Levis Denim Jacket,Apparel,-56448.14,97,negative_price
+S135,I439643,Skechers Gowalk,Footwear,-131280.14,25,negative_price
+S135,I454468,,Footwear,89734.4,455,missing_item_name
+S135,I503726,,Footwear,29846.18,258,missing_item_name
+S135,I530752,,Footwear,94338.09,98,missing_item_name
+S135,I562936,Dell Xps 13 Laptop,Electronics,134646.92,-14,negative_stock
+S135,I572086,Boat Smartwatch,Electronics,92063.94,-10,negative_stock
+S135,I577892,Zara Maxi Dress,Apparel,-23889.3,243,negative_price
+S135,I594408,Lg 7kg Washing Machine,Home Appliances,-23132.01,46,negative_price
+S135,I636775,Sony Wh-1000xm5 Headphones,Electronics,-129318.4,202,negative_price
+S135,I660272,,Footwear,96465.17,168,missing_item_name
+S135,I661782,,Electronics,94447.99,70,missing_item_name
+S135,I676015,Levis Denim Jacket,Apparel,-2520.09,272,negative_price
+S135,I700951,Samsung Galaxy S24 Ultra,Electronics,33580.64,-18,negative_stock
+S135,I706863,Zara Maxi Dress,Apparel,120185.01,-8,negative_stock
+S135,I719144,Boat Smartwatch,Electronics,-135850.99,391,negative_price
+S135,I722175,Dyson Vacuum Cleaner,Home Appliances,-34434.63,342,negative_price
+S135,I724746,,Home Appliances,147502.79,234,missing_item_name
+S135,I737007,,Electronics,94733.05,371,missing_item_name
+S135,I784836,Reebok Nano X4,Footwear,75930.58,-11,negative_stock
+S135,I796502,,Apparel,29465.5,48,missing_item_name
+S135,I803690,,Home Appliances,54211.34,46,missing_item_name
+S135,I889055,Samsung Galaxy S24 Ultra,Electronics,-22486.87,371,negative_price
+S135,I92739,,Footwear,112411.31,278,missing_item_name
+S135,I978878,Apple Iphone 15 Pro,Electronics,-26546.78,-8,"negative_price,negative_stock"
+S135,I980729,U.s. Polo T-shirt,Apparel,88914.58,-9,negative_stock
+S136,I1003581,Samsung Galaxy S24 Ultra,Electronics,-80708.06,120,negative_price
+S136,I119112,Dyson Vacuum Cleaner,Home Appliances,-43646.68,250,negative_price
+S136,I145509,,Footwear,112126.89,206,missing_item_name
+S136,I17310,Boat Smartwatch,Electronics,-122778.05,457,negative_price
+S136,I235214,,Footwear,72021.4,57,missing_item_name
+S136,I256088,Sony Wh-1000xm5 Headphones,Electronics,85538.72,-11,negative_stock
+S136,I263241,Samsung 55” Smart Tv,Home Appliances,83378.08,-16,negative_stock
+S136,I282799,Adidas Ultraboost 23,Footwear,-20078.18,160,negative_price
+S136,I286101,Skechers Gowalk,Footwear,-29611.27,216,negative_price
+S136,I287740,Apple Iphone 15 Pro,Electronics,3043.24,-3,negative_stock
+S136,I343061,Lg 7kg Washing Machine,Home Appliances,-149825.47,397,negative_price
+S136,I34592,Sony Wh-1000xm5 Headphones,Electronics,1905.13,-19,negative_stock
+S136,I396535,Dell Xps 13 Laptop,Electronics,100132.76,-10,negative_stock
+S136,I427280,,Apparel,55351.6,428,missing_item_name
+S136,I450720,Zara Maxi Dress,Apparel,142523.85,-3,negative_stock
+S136,I485637,,Electronics,30207.6,485,missing_item_name
+S136,I49697,Dyson Vacuum Cleaner,Home Appliances,112113.65,-6,negative_stock
+S136,I555842,,Apparel,38174.99,499,missing_item_name
+S136,I580607,,Footwear,76557.51,431,missing_item_name
+S136,I596475,,Home Appliances,136241.93,242,missing_item_name
+S136,I624594,Dyson Vacuum Cleaner,Home Appliances,120652.51,-1,negative_stock
+S136,I63104,,Electronics,76359.7,293,missing_item_name
+S136,I639084,,Electronics,85615.49,56,missing_item_name
+S136,I641284,,Electronics,148773.01,81,missing_item_name
+S136,I642879,Nike Air Zoom Pegasus,Footwear,98593.89,-6,negative_stock
+S136,I660386,Zara Maxi Dress,Apparel,108400.29,-18,negative_stock
+S136,I683980,Allen Solly Formal Pants,Apparel,-85677.3,265,negative_price
+S136,I685170,,Apparel,36670.89,51,missing_item_name
+S136,I691018,Levis Denim Jacket,Apparel,114599.11,-15,negative_stock
+S136,I714936,H&m Cotton Shirt,Apparel,74954.78,-3,negative_stock
+S136,I71601,,Home Appliances,139698.38,72,missing_item_name
+S136,I785606,U.s. Polo T-shirt,Apparel,131159.31,-6,negative_stock
+S136,I828663,Boat Smartwatch,Electronics,63560.44,-17,negative_stock
+S136,I899622,Puma Running Shoes,Footwear,-63535.55,219,negative_price
+S136,I933056,Reebok Nano X4,Footwear,26953.95,-1,negative_stock
+S136,I957618,Allen Solly Formal Pants,Apparel,43749.21,-17,negative_stock
+S136,I966767,Philips Air Fryer,Home Appliances,127279.79,-1,negative_stock
+S136,I99486,Puma Running Shoes,Footwear,118381.43,-18,negative_stock
+S137,I1002564,Sony Wh-1000xm5 Headphones,Electronics,54683.7,-16,negative_stock
+S137,I1004494,Sony Wh-1000xm5 Headphones,Electronics,-80612.07,246,negative_price
+S137,I1007378,,Home Appliances,38778.49,410,missing_item_name
+S137,I137141,Allen Solly Formal Pants,Apparel,-28798.56,69,negative_price
+S137,I149265,,Footwear,12492.48,426,missing_item_name
+S137,I182214,Philips Air Fryer,Home Appliances,56079.61,-14,negative_stock
+S137,I188952,,Electronics,27568.22,493,missing_item_name
+S137,I213772,Bajaj Mixer Grinder,Home Appliances,-106691.68,109,negative_price
+S137,I247207,Apple Iphone 15 Pro,Electronics,78176.23,-16,negative_stock
+S137,I255153,,Home Appliances,99197.72,419,missing_item_name
+S137,I319547,,Apparel,142011.62,117,missing_item_name
+S137,I365047,H&m Cotton Shirt,Apparel,-64081.28,448,negative_price
+S137,I397343,Bajaj Mixer Grinder,Home Appliances,-75486.0,426,negative_price
+S137,I449602,,Apparel,124257.08,393,missing_item_name
+S137,I459118,H&m Cotton Shirt,Apparel,81206.83,-19,negative_stock
+S137,I460611,Puma Running Shoes,Footwear,133996.72,-5,negative_stock
+S137,I485357,Skechers Gowalk,Footwear,11405.18,-18,negative_stock
+S137,I520051,Puma Running Shoes,Footwear,-134330.91,445,negative_price
+S137,I547220,Sony Wh-1000xm5 Headphones,Electronics,66043.61,-1,negative_stock
+S137,I566328,Philips Air Fryer,Home Appliances,146743.91,-17,negative_stock
+S137,I592598,Samsung Galaxy S24 Ultra,Electronics,102972.52,-7,negative_stock
+S137,I612443,Allen Solly Formal Pants,Apparel,47055.13,-16,negative_stock
+S137,I626066,Philips Air Fryer,Home Appliances,-131622.39,257,negative_price
+S137,I635214,Skechers Gowalk,Footwear,-87014.46,32,negative_price
+S137,I638417,,Home Appliances,140721.17,144,missing_item_name
+S137,I641750,,Apparel,119205.58,479,missing_item_name
+S137,I650170,U.s. Polo T-shirt,Apparel,14579.2,-13,negative_stock
+S137,I65268,,Electronics,111559.87,23,missing_item_name
+S137,I655649,H&m Cotton Shirt,Apparel,-89764.33,370,negative_price
+S137,I673373,Dyson Vacuum Cleaner,Home Appliances,-142722.6,145,negative_price
+S137,I68634,,Home Appliances,72635.12,208,missing_item_name
+S137,I705750,,Electronics,31094.26,485,missing_item_name
+S137,I717924,,Electronics,42387.48,146,missing_item_name
+S137,I76182,,Electronics,104068.39,207,missing_item_name
+S137,I781527,Sony Wh-1000xm5 Headphones,Electronics,-62794.7,422,negative_price
+S137,I793053,Levis Denim Jacket,Apparel,56092.91,-14,negative_stock
+S137,I79948,,Home Appliances,11554.89,441,missing_item_name
+S137,I803039,Puma Running Shoes,Footwear,90994.85,-1,negative_stock
+S137,I832904,Boat Smartwatch,Electronics,26094.78,-10,negative_stock
+S137,I864223,Boat Smartwatch,Electronics,-22907.16,165,negative_price
+S137,I868819,,Home Appliances,10588.73,96,missing_item_name
+S137,I892296,Boat Smartwatch,Electronics,13530.44,-8,negative_stock
+S137,I896167,Samsung 55” Smart Tv,Home Appliances,-32169.82,443,negative_price
+S137,I967509,,Electronics,113930.92,375,missing_item_name
+S138,I155634,Samsung 55” Smart Tv,Home Appliances,-148574.08,17,negative_price
+S138,I18500,Boat Smartwatch,Electronics,-17585.62,71,negative_price
+S138,I25410,Puma Running Shoes,Footwear,118031.67,-2,negative_stock
+S138,I278890,,Footwear,7837.98,277,missing_item_name
+S138,I387143,,Home Appliances,82327.27,216,missing_item_name
+S138,I422039,Reebok Nano X4,Footwear,46252.52,-18,negative_stock
+S138,I430635,Dyson Vacuum Cleaner,Home Appliances,-140886.48,210,negative_price
+S138,I437203,,Apparel,56106.14,418,missing_item_name
+S138,I466429,,Footwear,16617.95,69,missing_item_name
+S138,I472543,Nike Air Zoom Pegasus,Footwear,62961.93,-8,negative_stock
+S138,I489250,,Apparel,34967.87,498,missing_item_name
+S138,I497334,Dyson Vacuum Cleaner,Home Appliances,8324.25,-3,negative_stock
+S138,I503527,Adidas Ultraboost 23,Footwear,11426.82,-16,negative_stock
+S138,I535332,Dyson Vacuum Cleaner,Home Appliances,-80887.55,258,negative_price
+S138,I542423,,Electronics,140531.59,11,missing_item_name
+S138,I642919,Apple Iphone 15 Pro,Electronics,-46369.31,254,negative_price
+S138,I656491,Boat Smartwatch,Electronics,125145.76,-19,negative_stock
+S138,I674312,Sony Wh-1000xm5 Headphones,Electronics,-94736.63,430,negative_price
+S138,I69497,Bajaj Mixer Grinder,Home Appliances,70183.06,-3,negative_stock
+S138,I72160,Adidas Ultraboost 23,Footwear,-45906.81,382,negative_price
+S138,I727136,,Home Appliances,137835.1,202,missing_item_name
+S138,I74774,Bajaj Mixer Grinder,Home Appliances,91377.29,-1,negative_stock
+S138,I768000,Dyson Vacuum Cleaner,Home Appliances,-133387.05,310,negative_price
+S138,I78497,Puma Running Shoes,Footwear,-95288.0,150,negative_price
+S138,I794187,,Electronics,6014.44,55,missing_item_name
+S138,I808147,Levis Denim Jacket,Apparel,-41142.34,176,negative_price
+S138,I827497,,Footwear,124849.87,70,missing_item_name
+S138,I869961,Bajaj Mixer Grinder,Home Appliances,128896.8,-15,negative_stock
+S138,I884203,Lg 7kg Washing Machine,Home Appliances,139544.29,-3,negative_stock
+S138,I917633,Samsung 55” Smart Tv,Home Appliances,83216.18,-18,negative_stock
+S138,I98532,,Footwear,94711.44,134,missing_item_name
+S138,I997725,,Apparel,46018.82,19,missing_item_name
+S139,,Samsung Galaxy S24 Ultra,Electronics,43311.47,22,missing_item_id
+S139,I108592,Nike Air Zoom Pegasus,Footwear,58250.54,-2,negative_stock
+S139,I13507,Dyson Vacuum Cleaner,Home Appliances,-17213.7,364,negative_price
+S139,I154715,,Home Appliances,40483.18,234,missing_item_name
+S139,I167655,Dell Xps 13 Laptop,Electronics,-29766.41,175,negative_price
+S139,I168938,Skechers Gowalk,Footwear,-36297.35,459,negative_price
+S139,I174682,H&m Cotton Shirt,Apparel,-6890.72,471,negative_price
+S139,I206355,Apple Iphone 15 Pro,Electronics,-47129.51,278,negative_price
+S139,I215156,,Apparel,75526.32,481,missing_item_name
+S139,I24818,Skechers Gowalk,Footwear,33185.36,-4,negative_stock
+S139,I254910,Philips Air Fryer,Home Appliances,49636.64,-3,negative_stock
+S139,I287334,,Apparel,105554.54,202,missing_item_name
+S139,I353156,Bajaj Mixer Grinder,Home Appliances,-114983.5,312,negative_price
+S139,I354255,,Electronics,102208.17,85,missing_item_name
+S139,I385802,Adidas Ultraboost 23,Footwear,56993.91,-20,negative_stock
+S139,I405353,Levis Denim Jacket,Apparel,-90962.35,204,negative_price
+S139,I409979,,Home Appliances,103406.08,96,missing_item_name
+S139,I435608,,Electronics,75157.82,376,missing_item_name
+S139,I435950,Dyson Vacuum Cleaner,Home Appliances,81239.51,-5,negative_stock
+S139,I44102,Levis Denim Jacket,Apparel,-68353.61,76,negative_price
+S139,I446206,Levis Denim Jacket,Apparel,-53615.63,131,negative_price
+S139,I465657,,Apparel,146774.58,375,missing_item_name
+S139,I474265,Puma Running Shoes,Footwear,-133399.36,473,negative_price
+S139,I47789,Adidas Ultraboost 23,Footwear,37067.31,-7,negative_stock
+S139,I486459,,Home Appliances,100231.33,119,missing_item_name
+S139,I545199,Levis Denim Jacket,Apparel,-3251.32,42,negative_price
+S139,I557927,Dell Xps 13 Laptop,Electronics,143004.91,-12,negative_stock
+S139,I587464,Lg 7kg Washing Machine,Home Appliances,101124.2,-14,negative_stock
+S139,I599948,,Electronics,66473.19,307,missing_item_name
+S139,I611571,,Home Appliances,986.75,483,missing_item_name
+S139,I761887,,Footwear,-53384.83,412,"missing_item_name,negative_price"
+S139,I788228,Levis Denim Jacket,Apparel,-122124.0,257,negative_price
+S139,I836902,Nike Air Zoom Pegasus,Footwear,29041.22,-10,negative_stock
+S139,I872733,H&m Cotton Shirt,Apparel,122068.78,-19,negative_stock
+S139,I913619,Nike Air Zoom Pegasus,Footwear,-143607.84,261,negative_price
+S139,I923047,U.s. Polo T-shirt,Apparel,-57556.48,42,negative_price
+S139,I928224,,Footwear,129312.57,107,missing_item_name
+S139,I933735,Sony Wh-1000xm5 Headphones,Electronics,47225.94,-2,negative_stock
+S139,I93379,Lg 7kg Washing Machine,Home Appliances,1840.83,-1,negative_stock
+S139,I936004,,Footwear,119414.79,37,missing_item_name
+S139,I971890,,Footwear,46352.87,205,missing_item_name
+S140,,Reebok Nano X4,Footwear,56088.25,371,missing_item_id
+S140,I124684,,Electronics,51069.83,283,missing_item_name
+S140,I163600,Zara Maxi Dress,Apparel,500.77,-19,negative_stock
+S140,I232994,Reebok Nano X4,Footwear,-114191.83,20,negative_price
+S140,I337288,Bajaj Mixer Grinder,Home Appliances,93144.07,-12,negative_stock
+S140,I376656,U.s. Polo T-shirt,Apparel,78513.72,-19,negative_stock
+S140,I416798,Sony Wh-1000xm5 Headphones,Electronics,-49077.71,345,negative_price
+S140,I439015,Levis Denim Jacket,Apparel,49105.17,-18,negative_stock
+S140,I474938,Dell Xps 13 Laptop,Electronics,-115206.75,417,negative_price
+S140,I520480,Samsung 55” Smart Tv,Home Appliances,59899.04,-16,negative_stock
+S140,I537748,Adidas Ultraboost 23,Footwear,141970.63,-17,negative_stock
+S140,I555456,,Home Appliances,96117.77,376,missing_item_name
+S140,I637973,Adidas Ultraboost 23,Footwear,120350.06,-5,negative_stock
+S140,I650084,,Home Appliances,115942.4,22,missing_item_name
+S140,I735984,,Electronics,84488.1,184,missing_item_name
+S140,I786071,Allen Solly Formal Pants,Apparel,123345.88,-9,negative_stock
+S140,I797920,Levis Denim Jacket,Apparel,138909.34,-18,negative_stock
+S140,I815585,Dyson Vacuum Cleaner,Home Appliances,-58850.37,86,negative_price
+S140,I854645,Boat Smartwatch,Electronics,17392.79,-17,negative_stock
+S140,I856054,,Home Appliances,56525.33,120,missing_item_name
+S140,I857829,,Home Appliances,28709.65,137,missing_item_name
+S140,I857932,Lg 7kg Washing Machine,Home Appliances,-109530.95,393,negative_price
+S140,I913009,Nike Air Zoom Pegasus,Footwear,100495.73,-4,negative_stock
+S140,I914224,Philips Air Fryer,Home Appliances,-39173.47,426,negative_price
+S140,I946814,,Footwear,140636.99,81,missing_item_name
+S140,I951336,Apple Iphone 15 Pro,Electronics,-102302.33,136,negative_price
+S140,I958304,Levis Denim Jacket,Apparel,-53535.33,319,negative_price
+S140,I976721,,Footwear,106834.68,45,missing_item_name
+S140,I979409,Levis Denim Jacket,Apparel,-70254.12,342,negative_price
+S140,I998674,Allen Solly Formal Pants,Apparel,78769.48,-9,negative_stock
+S141,,U.s. Polo T-shirt,Apparel,32192.57,178,missing_item_id
+S141,I1006922,,Home Appliances,126872.39,498,missing_item_name
+S141,I105818,Samsung Galaxy S24 Ultra,Electronics,89806.99,-15,negative_stock
+S141,I144600,Philips Air Fryer,Home Appliances,120019.45,-16,negative_stock
+S141,I17072,Samsung 55” Smart Tv,Home Appliances,-60854.92,324,negative_price
+S141,I190880,Philips Air Fryer,Home Appliances,86874.18,-1,negative_stock
+S141,I212516,,Home Appliances,99115.57,368,missing_item_name
+S141,I213452,,Electronics,20812.7,341,missing_item_name
+S141,I242355,Bajaj Mixer Grinder,Home Appliances,-42342.69,150,negative_price
+S141,I246794,,Footwear,-136067.78,488,"missing_item_name,negative_price"
+S141,I254621,Reebok Nano X4,Footwear,67614.49,-15,negative_stock
+S141,I293462,,Electronics,48721.87,132,missing_item_name
+S141,I308327,Dyson Vacuum Cleaner,Home Appliances,-90726.36,102,negative_price
+S141,I31021,Puma Running Shoes,Footwear,-80946.94,295,negative_price
+S141,I331567,Samsung 55” Smart Tv,Home Appliances,-128456.42,415,negative_price
+S141,I443388,Boat Smartwatch,Electronics,39855.24,-18,negative_stock
+S141,I482807,Reebok Nano X4,Footwear,74510.23,-6,negative_stock
+S141,I522230,Levis Denim Jacket,Apparel,45158.59,-18,negative_stock
+S141,I524545,,Electronics,82430.24,195,missing_item_name
+S141,I528723,,Footwear,125236.92,284,missing_item_name
+S141,I56942,Bajaj Mixer Grinder,Home Appliances,72943.01,-2,negative_stock
+S141,I60685,Dyson Vacuum Cleaner,Home Appliances,-51759.89,381,negative_price
+S141,I652041,Samsung Galaxy S24 Ultra,Electronics,77969.74,-12,negative_stock
+S141,I671808,Reebok Nano X4,Footwear,-92493.01,95,negative_price
+S141,I679324,Boat Smartwatch,Electronics,98671.51,-16,negative_stock
+S141,I685022,Skechers Gowalk,Footwear,74067.47,-5,negative_stock
+S141,I69594,Boat Smartwatch,Electronics,-16491.66,164,negative_price
+S141,I707996,,Footwear,-15920.97,435,"missing_item_name,negative_price"
+S141,I712304,Apple Iphone 15 Pro,Electronics,131016.57,-11,negative_stock
+S141,I724892,,Footwear,149028.03,262,missing_item_name
+S141,I804188,,Electronics,123098.65,406,missing_item_name
+S141,I812549,Philips Air Fryer,Home Appliances,-12328.09,219,negative_price
+S141,I820811,Nike Air Zoom Pegasus,Footwear,69351.31,-10,negative_stock
+S141,I834049,Sony Wh-1000xm5 Headphones,Electronics,-74019.94,153,negative_price
+S141,I844746,,Footwear,112528.14,56,missing_item_name
+S141,I85870,Dyson Vacuum Cleaner,Home Appliances,76992.95,-1,negative_stock
+S141,I924276,,Apparel,104689.39,352,missing_item_name
+S141,I939486,Allen Solly Formal Pants,Apparel,-115744.27,229,negative_price
+S141,I967671,,Footwear,41219.79,408,missing_item_name
+S141,I975681,Samsung 55” Smart Tv,Home Appliances,-4972.73,449,negative_price
+S141,I979181,Levis Denim Jacket,Apparel,-81491.51,324,negative_price
+S141,I981546,,Apparel,145485.7,417,missing_item_name
+S142,I1000261,,Electronics,140749.63,289,missing_item_name
+S142,I121401,U.s. Polo T-shirt,Apparel,-67371.6,383,negative_price
+S142,I146673,Samsung 55” Smart Tv,Home Appliances,-19113.85,468,negative_price
+S142,I181853,Levis Denim Jacket,Apparel,127343.63,-2,negative_stock
+S142,I221833,Samsung 55” Smart Tv,Home Appliances,-130270.51,440,negative_price
+S142,I244519,,Apparel,79658.67,96,missing_item_name
+S142,I287484,,Footwear,139954.99,36,missing_item_name
+S142,I342666,Dell Xps 13 Laptop,Electronics,116815.16,-14,negative_stock
+S142,I387074,,Footwear,37200.7,412,missing_item_name
+S142,I428987,,Home Appliances,129896.9,276,missing_item_name
+S142,I465727,Philips Air Fryer,Home Appliances,-123346.5,110,negative_price
+S142,I470267,Reebok Nano X4,Footwear,5450.01,-6,negative_stock
+S142,I57987,Apple Iphone 15 Pro,Electronics,124075.81,-7,negative_stock
+S142,I591625,Boat Smartwatch,Electronics,44394.4,-18,negative_stock
+S142,I698621,Dell Xps 13 Laptop,Electronics,146273.53,-8,negative_stock
+S142,I759332,Skechers Gowalk,Footwear,-106472.5,183,negative_price
+S142,I803204,Skechers Gowalk,Footwear,-39906.81,158,negative_price
+S142,I820363,Allen Solly Formal Pants,Apparel,-142185.29,450,negative_price
+S142,I856543,,Footwear,38312.0,287,missing_item_name
+S142,I878486,Samsung 55” Smart Tv,Home Appliances,-9034.08,124,negative_price
+S142,I888389,,Electronics,15959.98,486,missing_item_name
+S142,I889979,Boat Smartwatch,Electronics,-101914.42,-13,"negative_price,negative_stock"
+S142,I89288,,Apparel,81738.59,232,missing_item_name
+S142,I92823,,Footwear,118837.9,296,missing_item_name
+S142,I958532,,Electronics,55059.94,227,missing_item_name
+S142,I961009,Bajaj Mixer Grinder,Home Appliances,-148920.08,298,negative_price
+S142,I965287,U.s. Polo T-shirt,Apparel,84048.06,-8,negative_stock
+S143,I119923,U.s. Polo T-shirt,Apparel,94094.23,-20,negative_stock
+S143,I12574,Reebok Nano X4,Footwear,130211.21,-19,negative_stock
+S143,I141716,,Apparel,32394.93,478,missing_item_name
+S143,I146580,Skechers Gowalk,Footwear,-50587.89,440,negative_price
+S143,I17974,,Home Appliances,143666.98,283,missing_item_name
+S143,I236401,,Home Appliances,61603.6,131,missing_item_name
+S143,I247954,,Footwear,105075.61,388,missing_item_name
+S143,I257258,Levis Denim Jacket,Apparel,-75395.91,160,negative_price
+S143,I305923,Lg 7kg Washing Machine,Home Appliances,62568.61,-11,negative_stock
+S143,I353044,Zara Maxi Dress,Apparel,-10391.13,286,negative_price
+S143,I375723,,Home Appliances,119955.22,123,missing_item_name
+S143,I382216,Skechers Gowalk,Footwear,-71977.31,92,negative_price
+S143,I388636,,Apparel,72759.43,470,missing_item_name
+S143,I45960,Lg 7kg Washing Machine,Home Appliances,-140533.33,143,negative_price
+S143,I487185,Reebok Nano X4,Footwear,119081.87,-8,negative_stock
+S143,I502505,Samsung 55” Smart Tv,Home Appliances,112505.64,-8,negative_stock
+S143,I527181,Reebok Nano X4,Footwear,30230.2,-14,negative_stock
+S143,I550234,Bajaj Mixer Grinder,Home Appliances,-7311.05,404,negative_price
+S143,I567783,Allen Solly Formal Pants,Apparel,-85379.09,20,negative_price
+S143,I667598,,Electronics,29246.99,486,missing_item_name
+S143,I679773,Zara Maxi Dress,Apparel,145135.78,-16,negative_stock
+S143,I722141,U.s. Polo T-shirt,Apparel,65356.17,-10,negative_stock
+S143,I74980,Apple Iphone 15 Pro,Electronics,-87450.9,301,negative_price
+S143,I763881,,Electronics,30367.17,347,missing_item_name
+S143,I776808,Boat Smartwatch,Electronics,29740.74,-16,negative_stock
+S143,I785884,Zara Maxi Dress,Apparel,-48399.09,469,negative_price
+S143,I812986,Apple Iphone 15 Pro,Electronics,-11422.44,379,negative_price
+S143,I869393,,Home Appliances,147106.21,359,missing_item_name
+S143,I87166,,Footwear,125874.82,345,missing_item_name
+S143,I959279,Zara Maxi Dress,Apparel,-125762.9,460,negative_price
+S144,I100209,,Apparel,128769.61,101,missing_item_name
+S144,I204012,Dell Xps 13 Laptop,Electronics,138227.32,-20,negative_stock
+S144,I215645,,Home Appliances,117335.04,339,missing_item_name
+S144,I246137,,Apparel,96833.9,77,missing_item_name
+S144,I286971,,Apparel,118664.42,30,missing_item_name
+S144,I290935,Samsung Galaxy S24 Ultra,Electronics,104230.8,-13,negative_stock
+S144,I312681,,Apparel,16309.2,356,missing_item_name
+S144,I330677,Philips Air Fryer,Home Appliances,-95180.36,45,negative_price
+S144,I42251,Samsung 55” Smart Tv,Home Appliances,-27921.17,19,negative_price
+S144,I438155,Adidas Ultraboost 23,Footwear,-92838.33,257,negative_price
+S144,I44733,,Home Appliances,45228.44,94,missing_item_name
+S144,I454474,Dyson Vacuum Cleaner,Home Appliances,-64814.99,490,negative_price
+S144,I455033,Philips Air Fryer,Home Appliances,-82218.88,354,negative_price
+S144,I492117,Reebok Nano X4,Footwear,28939.81,-13,negative_stock
+S144,I525431,Samsung Galaxy S24 Ultra,Electronics,-24924.55,433,negative_price
+S144,I552878,,Home Appliances,62178.18,49,missing_item_name
+S144,I556298,,Electronics,17043.47,271,missing_item_name
+S144,I589499,Zara Maxi Dress,Apparel,-137861.92,464,negative_price
+S144,I639170,U.s. Polo T-shirt,Apparel,45792.66,-3,negative_stock
+S144,I678905,,Home Appliances,26346.73,284,missing_item_name
+S144,I742589,Philips Air Fryer,Home Appliances,40656.24,-8,negative_stock
+S144,I769582,Apple Iphone 15 Pro,Electronics,-94693.75,432,negative_price
+S144,I781423,,Footwear,45111.02,320,missing_item_name
+S144,I794385,,Apparel,34854.24,177,missing_item_name
+S144,I848126,Philips Air Fryer,Home Appliances,78038.78,-18,negative_stock
+S144,I901516,,Electronics,82619.33,458,missing_item_name
+S144,I918788,Lg 7kg Washing Machine,Home Appliances,149497.11,-4,negative_stock
+S144,I950528,Levis Denim Jacket,Apparel,-11923.72,217,negative_price
+S144,I953190,Sony Wh-1000xm5 Headphones,Electronics,-11409.62,493,negative_price
+S145,I16151,,Apparel,121887.14,79,missing_item_name
+S145,I161732,Bajaj Mixer Grinder,Home Appliances,95238.58,-4,negative_stock
+S145,I268638,,Footwear,140336.79,113,missing_item_name
+S145,I298302,Puma Running Shoes,Footwear,108754.92,-3,negative_stock
+S145,I310272,,Electronics,141740.26,167,missing_item_name
+S145,I32127,Adidas Ultraboost 23,Footwear,56875.16,-8,negative_stock
+S145,I434756,Samsung 55” Smart Tv,Home Appliances,33173.66,-17,negative_stock
+S145,I43621,Nike Air Zoom Pegasus,Footwear,45530.62,-14,negative_stock
+S145,I468446,Lg 7kg Washing Machine,Home Appliances,-65884.36,-2,"negative_price,negative_stock"
+S145,I52871,Allen Solly Formal Pants,Apparel,-144891.05,307,negative_price
+S145,I554028,,Footwear,54854.75,322,missing_item_name
+S145,I562738,Nike Air Zoom Pegasus,Footwear,1695.94,-6,negative_stock
+S145,I607617,,Electronics,21108.54,199,missing_item_name
+S145,I617303,,Electronics,131259.73,-3,"missing_item_name,negative_stock"
+S145,I654513,Samsung Galaxy S24 Ultra,Electronics,135637.95,-14,negative_stock
+S145,I677229,Bajaj Mixer Grinder,Home Appliances,-39275.92,271,negative_price
+S145,I715285,,Apparel,103243.97,369,missing_item_name
+S145,I738842,Reebok Nano X4,Footwear,-118487.46,16,negative_price
+S145,I765671,,Apparel,29498.21,445,missing_item_name
+S145,I805357,Philips Air Fryer,Home Appliances,147417.34,-13,negative_stock
+S145,I883179,Nike Air Zoom Pegasus,Footwear,126510.61,-13,negative_stock
+S146,I100453,,Footwear,78427.42,43,missing_item_name
+S146,I106048,,Home Appliances,70859.01,189,missing_item_name
+S146,I164328,,Apparel,63215.66,208,missing_item_name
+S146,I221650,Reebok Nano X4,Footwear,26653.38,-12,negative_stock
+S146,I236420,Nike Air Zoom Pegasus,Footwear,-64323.03,79,negative_price
+S146,I279191,Samsung 55” Smart Tv,Home Appliances,103237.72,-4,negative_stock
+S146,I29512,Skechers Gowalk,Footwear,18146.99,-13,negative_stock
+S146,I357715,Nike Air Zoom Pegasus,Footwear,-149051.37,122,negative_price
+S146,I363406,Dell Xps 13 Laptop,Electronics,100179.09,-3,negative_stock
+S146,I378396,Bajaj Mixer Grinder,Home Appliances,77407.48,-3,negative_stock
+S146,I433157,,Apparel,145478.41,54,missing_item_name
+S146,I49318,Reebok Nano X4,Footwear,-106240.05,462,negative_price
+S146,I595054,Boat Smartwatch,Electronics,135535.04,-19,negative_stock
+S146,I607960,Dyson Vacuum Cleaner,Home Appliances,28514.38,-7,negative_stock
+S146,I664686,Sony Wh-1000xm5 Headphones,Electronics,-16127.02,179,negative_price
+S146,I681619,Samsung 55” Smart Tv,Home Appliances,-46704.81,177,negative_price
+S146,I682184,,Home Appliances,41389.15,104,missing_item_name
+S146,I69341,,Home Appliances,2005.17,358,missing_item_name
+S146,I73354,Adidas Ultraboost 23,Footwear,106308.58,-2,negative_stock
+S146,I757684,Levis Denim Jacket,Apparel,-1669.49,204,negative_price
+S146,I768043,Apple Iphone 15 Pro,Electronics,-119152.95,382,negative_price
+S146,I779755,Allen Solly Formal Pants,Apparel,91451.75,-12,negative_stock
+S146,I803305,Dell Xps 13 Laptop,Electronics,137432.12,-6,negative_stock
+S146,I825778,Adidas Ultraboost 23,Footwear,-2306.88,329,negative_price
+S146,I83000,Skechers Gowalk,Footwear,-65393.3,314,negative_price
+S146,I840677,,Home Appliances,141871.35,98,missing_item_name
+S146,I858425,Dell Xps 13 Laptop,Electronics,105707.46,-18,negative_stock
+S146,I885427,Boat Smartwatch,Electronics,-14365.42,91,negative_price
+S146,I911701,,Footwear,125129.59,356,missing_item_name
+S146,I970345,H&m Cotton Shirt,Apparel,31172.92,-9,negative_stock
+S146,I993168,Nike Air Zoom Pegasus,Footwear,58950.78,-20,negative_stock
+S147,I1004916,Sony Wh-1000xm5 Headphones,Electronics,-143776.83,283,negative_price
+S147,I1009291,Reebok Nano X4,Footwear,-37982.26,333,negative_price
+S147,I108880,,Apparel,101697.86,419,missing_item_name
+S147,I11894,Levis Denim Jacket,Apparel,-34229.48,452,negative_price
+S147,I122257,,Electronics,767.37,332,missing_item_name
+S147,I136383,Zara Maxi Dress,Apparel,-47295.25,278,negative_price
+S147,I159427,Puma Running Shoes,Footwear,79630.57,-16,negative_stock
+S147,I229699,,Electronics,94600.56,204,missing_item_name
+S147,I242751,Bajaj Mixer Grinder,Home Appliances,-75623.5,336,negative_price
+S147,I247918,Apple Iphone 15 Pro,Electronics,101493.29,-1,negative_stock
+S147,I265044,Boat Smartwatch,Electronics,137423.11,-4,negative_stock
+S147,I284520,Dyson Vacuum Cleaner,Home Appliances,-61694.5,140,negative_price
+S147,I294851,,Apparel,78422.4,44,missing_item_name
+S147,I296308,,Apparel,80267.46,111,missing_item_name
+S147,I302345,Reebok Nano X4,Footwear,-13762.82,189,negative_price
+S147,I315669,Lg 7kg Washing Machine,Home Appliances,51436.8,-17,negative_stock
+S147,I330649,,Electronics,130829.67,477,missing_item_name
+S147,I353754,,Footwear,38198.41,105,missing_item_name
+S147,I381262,Dell Xps 13 Laptop,Electronics,-37531.66,52,negative_price
+S147,I387440,Levis Denim Jacket,Apparel,125462.8,-16,negative_stock
+S147,I413206,Sony Wh-1000xm5 Headphones,Electronics,49055.99,-19,negative_stock
+S147,I435373,Dyson Vacuum Cleaner,Home Appliances,-141404.07,-7,"negative_price,negative_stock"
+S147,I458255,Puma Running Shoes,Footwear,-143508.71,220,negative_price
+S147,I486146,,Home Appliances,39852.94,454,missing_item_name
+S147,I517434,,Home Appliances,25378.88,341,missing_item_name
+S147,I534334,Levis Denim Jacket,Apparel,-45623.4,473,negative_price
+S147,I551337,,Footwear,112092.54,405,missing_item_name
+S147,I556398,,Footwear,21049.09,259,missing_item_name
+S147,I572229,,Home Appliances,112786.0,376,missing_item_name
+S147,I57792,Zara Maxi Dress,Apparel,124204.41,-7,negative_stock
+S147,I587194,Bajaj Mixer Grinder,Home Appliances,3305.45,-20,negative_stock
+S147,I605920,Nike Air Zoom Pegasus,Footwear,-74167.49,318,negative_price
+S147,I646619,,Apparel,107337.89,292,missing_item_name
+S147,I655549,Levis Denim Jacket,Apparel,-74934.17,184,negative_price
+S147,I655976,Dyson Vacuum Cleaner,Home Appliances,79016.38,-17,negative_stock
+S147,I684259,Puma Running Shoes,Footwear,106108.44,-18,negative_stock
+S147,I731654,Dyson Vacuum Cleaner,Home Appliances,128781.5,-8,negative_stock
+S147,I738655,Philips Air Fryer,Home Appliances,113185.08,-7,negative_stock
+S147,I745346,,Footwear,49630.56,396,missing_item_name
+S147,I791178,,Apparel,110038.02,406,missing_item_name
+S147,I829140,Allen Solly Formal Pants,Apparel,-46687.56,103,negative_price
+S147,I860835,Lg 7kg Washing Machine,Home Appliances,5906.77,-15,negative_stock
+S147,I86350,Samsung 55” Smart Tv,Home Appliances,55397.55,-7,negative_stock
+S147,I874463,Reebok Nano X4,Footwear,13027.04,-7,negative_stock
+S147,I903167,Zara Maxi Dress,Apparel,-106748.68,196,negative_price
+S147,I927531,,Footwear,115233.71,133,missing_item_name
+S147,I93748,,Apparel,124406.36,56,missing_item_name
+S147,I946074,H&m Cotton Shirt,Apparel,73039.89,-3,negative_stock
+S147,I988496,Apple Iphone 15 Pro,Electronics,89171.88,-7,negative_stock
+S147,I988792,Skechers Gowalk,Footwear,-49228.83,161,negative_price
+S147,I993314,Dyson Vacuum Cleaner,Home Appliances,-2444.18,90,negative_price
+S148,I1005807,Lg 7kg Washing Machine,Home Appliances,147001.32,-12,negative_stock
+S148,I106208,Puma Running Shoes,Footwear,124217.78,-10,negative_stock
+S148,I152500,,Apparel,84244.66,180,missing_item_name
+S148,I155230,,Apparel,148637.36,432,missing_item_name
+S148,I193143,Lg 7kg Washing Machine,Home Appliances,-94855.42,62,negative_price
+S148,I210436,Boat Smartwatch,Electronics,-135200.68,92,negative_price
+S148,I247017,,Home Appliances,116914.89,357,missing_item_name
+S148,I251342,,Apparel,73839.34,128,missing_item_name
+S148,I257984,Apple Iphone 15 Pro,Electronics,-96184.45,251,negative_price
+S148,I262912,Skechers Gowalk,Footwear,24229.53,-20,negative_stock
+S148,I274208,Philips Air Fryer,Home Appliances,-105561.6,445,negative_price
+S148,I366194,,Electronics,68590.67,428,missing_item_name
+S148,I419160,Puma Running Shoes,Footwear,123590.8,-7,negative_stock
+S148,I420300,Zara Maxi Dress,Apparel,-133528.23,338,negative_price
+S148,I422913,,Footwear,73454.85,86,missing_item_name
+S148,I432655,Dell Xps 13 Laptop,Electronics,-71876.14,294,negative_price
+S148,I463890,,Electronics,55173.05,206,missing_item_name
+S148,I569193,Allen Solly Formal Pants,Apparel,-117935.24,408,negative_price
+S148,I569721,Bajaj Mixer Grinder,Home Appliances,70322.37,-1,negative_stock
+S148,I577945,,Footwear,61475.26,256,missing_item_name
+S148,I580560,Bajaj Mixer Grinder,Home Appliances,-27464.78,213,negative_price
+S148,I611195,,Footwear,90707.0,467,missing_item_name
+S148,I616011,Sony Wh-1000xm5 Headphones,Electronics,-85834.97,192,negative_price
+S148,I668287,,Footwear,121030.82,260,missing_item_name
+S148,I672131,H&m Cotton Shirt,Apparel,59167.49,-18,negative_stock
+S148,I694885,Allen Solly Formal Pants,Apparel,-89651.44,307,negative_price
+S148,I698820,H&m Cotton Shirt,Apparel,88148.48,-19,negative_stock
+S148,I749675,Samsung Galaxy S24 Ultra,Electronics,22167.71,-2,negative_stock
+S148,I76417,Dell Xps 13 Laptop,Electronics,-132172.32,88,negative_price
+S148,I778554,,Home Appliances,4093.15,408,missing_item_name
+S148,I782421,Samsung Galaxy S24 Ultra,Electronics,88559.86,-5,negative_stock
+S148,I803907,Boat Smartwatch,Electronics,68112.88,-3,negative_stock
+S148,I834494,,Apparel,144366.44,169,missing_item_name
+S148,I877292,H&m Cotton Shirt,Apparel,125225.25,-13,negative_stock
+S148,I900088,Nike Air Zoom Pegasus,Footwear,-100729.62,334,negative_price
+S148,I991777,Samsung 55” Smart Tv,Home Appliances,-122418.44,385,negative_price
+S149,I1009707,H&m Cotton Shirt,Apparel,-68725.65,96,negative_price
+S149,I127054,H&m Cotton Shirt,Apparel,129733.28,-19,negative_stock
+S149,I149063,Dyson Vacuum Cleaner,Home Appliances,-100111.83,30,negative_price
+S149,I159401,Nike Air Zoom Pegasus,Footwear,-19653.6,466,negative_price
+S149,I199487,,Home Appliances,147273.28,365,missing_item_name
+S149,I210991,Puma Running Shoes,Footwear,27511.31,-18,negative_stock
+S149,I263503,Samsung Galaxy S24 Ultra,Electronics,64259.9,-3,negative_stock
+S149,I277608,,Footwear,71650.29,222,missing_item_name
+S149,I29988,Samsung Galaxy S24 Ultra,Electronics,-2806.06,164,negative_price
+S149,I307013,Samsung 55” Smart Tv,Home Appliances,58122.99,-15,negative_stock
+S149,I334041,Sony Wh-1000xm5 Headphones,Electronics,117339.22,-12,negative_stock
+S149,I375701,,Footwear,66513.42,325,missing_item_name
+S149,I386555,Nike Air Zoom Pegasus,Footwear,19422.41,-4,negative_stock
+S149,I442546,,Home Appliances,18700.79,360,missing_item_name
+S149,I451917,H&m Cotton Shirt,Apparel,66327.11,-11,negative_stock
+S149,I489920,U.s. Polo T-shirt,Apparel,79070.28,-12,negative_stock
+S149,I511297,Sony Wh-1000xm5 Headphones,Electronics,-70871.02,285,negative_price
+S149,I565411,Puma Running Shoes,Footwear,-96022.51,40,negative_price
+S149,I580893,,Home Appliances,9443.55,366,missing_item_name
+S149,I607085,Boat Smartwatch,Electronics,-85847.09,451,negative_price
+S149,I639256,,Electronics,67544.6,16,missing_item_name
+S149,I658484,Skechers Gowalk,Footwear,-144210.35,313,negative_price
+S149,I687960,,Electronics,5256.6,475,missing_item_name
+S149,I710463,Lg 7kg Washing Machine,Home Appliances,-13634.83,344,negative_price
+S149,I736451,,Footwear,101296.07,71,missing_item_name
+S149,I753238,Skechers Gowalk,Footwear,47273.99,-20,negative_stock
+S149,I754269,Sony Wh-1000xm5 Headphones,Electronics,101521.74,-18,negative_stock
+S149,I775247,Skechers Gowalk,Footwear,-31027.02,246,negative_price
+S149,I836405,,Home Appliances,48187.27,479,missing_item_name
+S149,I851205,,Footwear,9589.39,215,missing_item_name
+S149,I90090,Dell Xps 13 Laptop,Electronics,-59010.02,358,negative_price
+S149,I914384,Levis Denim Jacket,Apparel,-74241.57,477,negative_price
+S149,I952933,,Footwear,107831.18,340,missing_item_name
+S150,I11101,Adidas Ultraboost 23,Footwear,123486.57,-4,negative_stock
+S150,I115751,Skechers Gowalk,Footwear,-50565.89,395,negative_price
+S150,I12422,Apple Iphone 15 Pro,Electronics,-99836.25,135,negative_price
+S150,I132932,Sony Wh-1000xm5 Headphones,Electronics,123948.84,-19,negative_stock
+S150,I13305,,Apparel,20338.11,410,missing_item_name
+S150,I148505,Apple Iphone 15 Pro,Electronics,138108.58,-2,negative_stock
+S150,I151851,Puma Running Shoes,Footwear,90979.02,-2,negative_stock
+S150,I163256,,Footwear,26082.19,-4,"missing_item_name,negative_stock"
+S150,I164311,Boat Smartwatch,Electronics,-120175.75,313,negative_price
+S150,I16629,,Apparel,114440.56,175,missing_item_name
+S150,I237403,,Home Appliances,103610.82,294,missing_item_name
+S150,I255162,Levis Denim Jacket,Apparel,47160.95,-17,negative_stock
+S150,I339539,Zara Maxi Dress,Apparel,66613.36,-5,negative_stock
+S150,I347049,,Footwear,103454.68,378,missing_item_name
+S150,I429669,,Apparel,38523.61,485,missing_item_name
+S150,I464714,,Apparel,139389.29,375,missing_item_name
+S150,I470083,Adidas Ultraboost 23,Footwear,-107002.38,474,negative_price
+S150,I49282,Philips Air Fryer,Home Appliances,-19245.24,189,negative_price
+S150,I543345,,Footwear,47200.53,24,missing_item_name
+S150,I561045,,Electronics,20945.4,438,missing_item_name
+S150,I565911,Samsung 55” Smart Tv,Home Appliances,-14290.23,303,negative_price
+S150,I625356,Zara Maxi Dress,Apparel,-92328.62,169,negative_price
+S150,I671372,,Electronics,106144.43,388,missing_item_name
+S150,I68462,,Apparel,137311.75,230,missing_item_name
+S150,I69399,Adidas Ultraboost 23,Footwear,-111692.83,140,negative_price
+S150,I859861,,Electronics,56061.52,371,missing_item_name
+S150,I867246,Philips Air Fryer,Home Appliances,-105043.26,228,negative_price
+S150,I90045,Skechers Gowalk,Footwear,146140.27,-19,negative_stock
+S150,I924618,Boat Smartwatch,Electronics,-75349.47,452,negative_price
+S150,I928042,,Footwear,109888.65,363,missing_item_name
+S150,I966175,,Apparel,55926.64,97,missing_item_name
+S150,I966707,Dyson Vacuum Cleaner,Home Appliances,48819.27,-5,negative_stock
+S150,I96761,,Apparel,96191.68,375,missing_item_name
+S150,I996759,Lg 7kg Washing Machine,Home Appliances,-26470.35,277,negative_price
